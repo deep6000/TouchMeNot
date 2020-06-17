@@ -1,0 +1,2 @@
+# TouchMeNot
+“TOUCH ME NOT” is a real time gesture recognition tool which can detect and count number of raised fingers. With keeping in mind the present situation of COVID-19, the tool can fulfill the requirement of a touchless user interface. This tool can be used to create a touchless interface with any computer system with a camera capability and a screen. We have created a touchless feedback system for a restaurant as one of the applications for this system
