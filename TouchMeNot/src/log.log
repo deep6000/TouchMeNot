@@ -1,0 +1,1136 @@
+sudo: unable to resolve host jetson-nano
+VIDEOIO ERROR: V4L2: property dialog_settings is not supported
+[1588406755359.361572]	[INFO]	Starting Hand Detection Application
+[1588406755359.409180]	[INFO]	Pthread Policy is SCHED_FIFO
+[1588406755359.525879]	[INFO]	Running Sequencer Thread 
+[1588406755359.660889]	[INFO]	Running Hand Detection Thread
+[1588406755359.866699]	[INFO]	Running UI Display Thread
+[1588406755461.562988]	[INFO]	Sequencer Task : Scheduled for 1th time
+[1588406755565.884766]	[INFO]	Sequencer Task : Scheduled for 2th time
+[1588406755676.229004]	[INFO]	Sequencer Task : Scheduled for 3th time
+[1588406755776.650635]	[INFO]	Sequencer Task : Scheduled for 4th time
+[1588406756034.116455]	[INFO]	Sequencer Task : Scheduled for 5th time
+[1588406756034.201904]	[INFO]	Display UI Task : Scheduled for 1th time
+[1588406756134.798584]	[INFO]	Sequencer Task : Scheduled for 6th time
+[1588406756241.290283]	[INFO]	Sequencer Task : Scheduled for 7th time
+[1588406756345.391357]	[INFO]	Sequencer Task : Scheduled for 8th time
+[1588406756448.014648]	[INFO]	Sequencer Task : Scheduled for 9th time
+[1588406756549.878662]	[INFO]	Sequencer Task : Scheduled for 10th time
+[1588406756550.127686]	[INFO]	Display UI Task : Scheduled for 2th time
+[1588406756651.828613]	[INFO]	Sequencer Task : Scheduled for 11th time
+[1588406756667.691162]	[INFO]	Hand Detection Task: Scheduled for 1th time
+[1588406756752.505371]	[INFO]	Sequencer Task : Scheduled for 12th time
+[1588406756853.686768]	[INFO]	Sequencer Task : Scheduled for 13th time
+[1588406756954.382568]	[INFO]	Sequencer Task : Scheduled for 14th time
+[1588406757054.756836]	[INFO]	Sequencer Task : Scheduled for 15th time
+[1588406757054.812988]	[INFO]	Display UI Task : Scheduled for 3th time
+[1588406757155.624023]	[INFO]	Sequencer Task : Scheduled for 16th time
+[1588406757256.020752]	[INFO]	Sequencer Task : Scheduled for 17th time
+[1588406757356.637939]	[INFO]	Sequencer Task : Scheduled for 18th time
+[1588406757457.630127]	[INFO]	Sequencer Task : Scheduled for 19th time
+[1588406757558.684082]	[INFO]	Sequencer Task : Scheduled for 20th time
+[1588406757558.755371]	[INFO]	Display UI Task : Scheduled for 4th time
+[1588406757658.803223]	[INFO]	Sequencer Task : Scheduled for 21th time
+[1588406757760.348389]	[INFO]	Sequencer Task : Scheduled for 22th time
+[1588406757812.189209]	[INFO]	Hand Detection Task: Scheduled for 2th time
+[1588406757836.947266]	[INFO]	Hand Detection Task: Scheduled for 3th time
+[1588406757860.417725]	[INFO]	Sequencer Task : Scheduled for 23th time
+[1588406757884.305664]	[INFO]	Hand Detection Task: Scheduled for 4th time
+[1588406757912.242676]	[INFO]	Hand Detection Task: Scheduled for 5th time
+[1588406757930.748047]	[INFO]	Hand Detection Task: Scheduled for 6th time
+[1588406757951.666992]	[INFO]	Hand Detection Task: Scheduled for 7th time
+[1588406757960.710449]	[INFO]	Sequencer Task : Scheduled for 24th time
+[1588406757974.270264]	[INFO]	Hand Detection Task: Scheduled for 8th time
+[1588406757992.159912]	[INFO]	Hand Detection Task: Scheduled for 9th time
+[1588406758008.523438]	[INFO]	Hand Detection Task: Scheduled for 10th time
+[1588406758024.784180]	[INFO]	Hand Detection Task: Scheduled for 11th time
+[1588406758053.392334]	[INFO]	Hand Detection Task: Scheduled for 12th time
+[1588406758060.888428]	[INFO]	Sequencer Task : Scheduled for 25th time
+[1588406758061.077393]	[INFO]	Display UI Task : Scheduled for 5th time
+[1588406758161.044189]	[INFO]	Sequencer Task : Scheduled for 26th time
+[1588406758164.397217]	[INFO]	Hand Detection Task: Scheduled for 13th time
+[1588406758262.313721]	[INFO]	Sequencer Task : Scheduled for 27th time
+[1588406758362.627441]	[INFO]	Sequencer Task : Scheduled for 28th time
+[1588406758411.009521]	[INFO]	Hand Detection Task: Scheduled for 14th time
+[1588406758470.514648]	[INFO]	Sequencer Task : Scheduled for 29th time
+[1588406758476.983154]	[INFO]	Hand Detection Task: Scheduled for 15th time
+[1588406758495.687012]	[INFO]	Hand Detection Task: Scheduled for 16th time
+[1588406758523.749512]	[INFO]	Hand Detection Task: Scheduled for 17th time
+[1588406758570.550537]	[INFO]	Sequencer Task : Scheduled for 30th time
+[1588406758570.601562]	[INFO]	Display UI Task : Scheduled for 6th time
+[1588406758572.088135]	[INFO]	Hand Detection Task: Scheduled for 18th time
+[1588406758670.652832]	[INFO]	Sequencer Task : Scheduled for 31th time
+[1588406758694.198975]	[INFO]	Hand Detection Task: Scheduled for 19th time
+[1588406758768.113037]	[INFO]	Hand Detection Task: Scheduled for 20th time
+[1588406758770.789551]	[INFO]	Sequencer Task : Scheduled for 32th time
+[1588406758826.617188]	[INFO]	Hand Detection Task: Scheduled for 21th time
+[1588406758870.954590]	[INFO]	Sequencer Task : Scheduled for 33th time
+[1588406758937.647949]	[INFO]	Hand Detection Task: Scheduled for 22th time
+[1588406758971.166992]	[INFO]	Sequencer Task : Scheduled for 34th time
+[1588406759072.007812]	[INFO]	Sequencer Task : Scheduled for 35th time
+[1588406759072.186523]	[INFO]	Display UI Task : Scheduled for 7th time
+[1588406759125.762695]	[INFO]	Hand Detection Task: Scheduled for 23th time
+[1588406759143.737549]	[INFO]	Hand Detection Task: Scheduled for 24th time
+[1588406759172.564453]	[INFO]	Sequencer Task : Scheduled for 36th time
+[1588406759248.145264]	[INFO]	Hand Detection Task: Scheduled for 25th time
+[1588406759273.056885]	[INFO]	Sequencer Task : Scheduled for 37th time
+[1588406759360.656006]	[INFO]	Hand Detection Task: Scheduled for 26th time
+[1588406759373.200439]	[INFO]	Sequencer Task : Scheduled for 38th time
+[1588406759473.447998]	[INFO]	Sequencer Task : Scheduled for 39th time
+[1588406759488.593750]	[INFO]	Hand Detection Task: Scheduled for 27th time
+[1588406759574.520752]	[INFO]	Sequencer Task : Scheduled for 40th time
+[1588406759574.578613]	[INFO]	Display UI Task : Scheduled for 8th time
+[1588406759674.752197]	[INFO]	Sequencer Task : Scheduled for 41th time
+[1588406759775.030029]	[INFO]	Sequencer Task : Scheduled for 42th time
+[1588406759875.213623]	[INFO]	Sequencer Task : Scheduled for 43th time
+[1588406759975.458252]	[INFO]	Sequencer Task : Scheduled for 44th time
+[1588406760075.746338]	[INFO]	Sequencer Task : Scheduled for 45th time
+[1588406760075.796143]	[INFO]	Display UI Task : Scheduled for 9th time
+[1588406760175.822998]	[INFO]	Sequencer Task : Scheduled for 46th time
+[1588406760276.096680]	[INFO]	Sequencer Task : Scheduled for 47th time
+[1588406760376.888184]	[INFO]	Sequencer Task : Scheduled for 48th time
+[1588406760439.322754]	[INFO]	Hand Detection Task: Scheduled for 28th time
+[1588406760455.908691]	[INFO]	Hand Detection Task: Scheduled for 29th time
+[1588406760477.028320]	[INFO]	Sequencer Task : Scheduled for 49th time
+[1588406760500.908691]	[INFO]	Hand Detection Task: Scheduled for 30th time
+[1588406760577.125000]	[INFO]	Sequencer Task : Scheduled for 50th time
+[1588406760577.287598]	[INFO]	Display UI Task : Scheduled for 10th time
+[1588406760677.665527]	[INFO]	Sequencer Task : Scheduled for 51th time
+[1588406760777.911621]	[INFO]	Sequencer Task : Scheduled for 52th time
+[1588406760795.125488]	[INFO]	Hand Detection Task: Scheduled for 31th time
+[1588406760812.616943]	[INFO]	Hand Detection Task: Scheduled for 32th time
+[1588406760878.367920]	[INFO]	Sequencer Task : Scheduled for 53th time
+[1588406760903.670166]	[INFO]	Hand Detection Task: Scheduled for 33th time
+[1588406760923.813721]	[INFO]	Hand Detection Task: Scheduled for 34th time
+[1588406760957.566650]	[INFO]	Hand Detection Task: Scheduled for 35th time
+[1588406760978.729492]	[INFO]	Sequencer Task : Scheduled for 54th time
+[1588406761006.682861]	[INFO]	Hand Detection Task: Scheduled for 36th time
+[1588406761078.778320]	[INFO]	Sequencer Task : Scheduled for 55th time
+[1588406761078.823975]	[INFO]	Display UI Task : Scheduled for 11th time
+[1588406761140.304688]	[INFO]	Hand Detection Task: Scheduled for 37th time
+[1588406761179.677490]	[INFO]	Sequencer Task : Scheduled for 56th time
+[1588406761244.645996]	[INFO]	Hand Detection Task: Scheduled for 38th time
+[1588406761262.002197]	[INFO]	Hand Detection Task: Scheduled for 39th time
+[1588406761279.956055]	[INFO]	Sequencer Task : Scheduled for 57th time
+[1588406761302.640869]	[INFO]	Hand Detection Task: Scheduled for 40th time
+[1588406761380.203857]	[INFO]	Sequencer Task : Scheduled for 58th time
+[1588406761480.362305]	[INFO]	Sequencer Task : Scheduled for 59th time
+[1588406761544.224365]	[INFO]	Hand Detection Task: Scheduled for 41th time
+[1588406761578.199463]	[INFO]	Hand Detection Task: Scheduled for 42th time
+[1588406761580.554199]	[INFO]	Sequencer Task : Scheduled for 60th time
+[1588406761580.593750]	[INFO]	Display UI Task : Scheduled for 12th time
+[1588406761617.668701]	[INFO]	Hand Detection Task: Scheduled for 43th time
+[1588406761646.208008]	[INFO]	Hand Detection Task: Scheduled for 44th time
+[1588406761680.626953]	[INFO]	Sequencer Task : Scheduled for 61th time
+[1588406761717.930420]	[INFO]	Hand Detection Task: Scheduled for 45th time
+[1588406761774.013184]	[INFO]	Hand Detection Task: Scheduled for 46th time
+[1588406761781.354004]	[INFO]	Sequencer Task : Scheduled for 62th time
+[1588406761881.403564]	[INFO]	Sequencer Task : Scheduled for 63th time
+[1588406761981.474365]	[INFO]	Sequencer Task : Scheduled for 64th time
+[1588406762081.939697]	[INFO]	Sequencer Task : Scheduled for 65th time
+[1588406762081.976807]	[INFO]	Display UI Task : Scheduled for 13th time
+[1588406762182.452393]	[INFO]	Sequencer Task : Scheduled for 66th time
+[1588406762245.905762]	[INFO]	Hand Detection Task: Scheduled for 47th time
+[1588406762283.507568]	[INFO]	Sequencer Task : Scheduled for 67th time
+[1588406762383.684082]	[INFO]	Sequencer Task : Scheduled for 68th time
+[1588406762483.889893]	[INFO]	Sequencer Task : Scheduled for 69th time
+[1588406762579.543701]	[INFO]	Hand Detection Task: Scheduled for 48th time
+[1588406762585.073730]	[INFO]	Sequencer Task : Scheduled for 70th time
+[1588406762585.134521]	[INFO]	Display UI Task : Scheduled for 14th time
+[1588406762685.762207]	[INFO]	Sequencer Task : Scheduled for 71th time
+[1588406762786.636230]	[INFO]	Sequencer Task : Scheduled for 72th time
+[1588406762887.139404]	[INFO]	Sequencer Task : Scheduled for 73th time
+[1588406762905.699219]	[INFO]	Hand Detection Task: Scheduled for 49th time
+[1588406762957.435303]	[INFO]	Hand Detection Task: Scheduled for 50th time
+[1588406762987.261475]	[INFO]	Sequencer Task : Scheduled for 74th time
+[1588406763024.554199]	[INFO]	Hand Detection Task: Scheduled for 51th time
+[1588406763043.651367]	[INFO]	Hand Detection Task: Scheduled for 52th time
+[1588406763087.550781]	[INFO]	Sequencer Task : Scheduled for 75th time
+[1588406763087.589844]	[INFO]	Display UI Task : Scheduled for 15th time
+[1588406763145.781982]	[INFO]	Hand Detection Task: Scheduled for 53th time
+[1588406763187.763184]	[INFO]	Sequencer Task : Scheduled for 76th time
+[1588406763233.603516]	[INFO]	Hand Detection Task: Scheduled for 54th time
+[1588406763274.549072]	[INFO]	Hand Detection Task: Scheduled for 55th time
+[1588406763288.293945]	[INFO]	Sequencer Task : Scheduled for 77th time
+[1588406763295.654785]	[INFO]	Hand Detection Task: Scheduled for 56th time
+[1588406763324.455322]	[INFO]	Hand Detection Task: Scheduled for 57th time
+[1588406763358.202881]	[INFO]	Hand Detection Task: Scheduled for 58th time
+[1588406763388.574707]	[INFO]	Sequencer Task : Scheduled for 78th time
+[1588406763450.263672]	[INFO]	Hand Detection Task: Scheduled for 59th time
+[1588406763469.805664]	[INFO]	Hand Detection Task: Scheduled for 60th time
+[1588406763489.331543]	[INFO]	Sequencer Task : Scheduled for 79th time
+[1588406763589.356689]	[INFO]	Sequencer Task : Scheduled for 80th time
+[1588406763589.437012]	[INFO]	Display UI Task : Scheduled for 16th time
+[1588406763659.050049]	[INFO]	Hand Detection Task: Scheduled for 61th time
+[1588406763690.215820]	[INFO]	Sequencer Task : Scheduled for 81th time
+[1588406763753.234619]	[INFO]	Hand Detection Task: Scheduled for 62th time
+[1588406763790.389893]	[INFO]	Sequencer Task : Scheduled for 82th time
+[1588406763878.798340]	[INFO]	Hand Detection Task: Scheduled for 63th time
+[1588406763890.501709]	[INFO]	Sequencer Task : Scheduled for 83th time
+[1588406763896.365234]	[INFO]	Hand Detection Task: Scheduled for 64th time
+[1588406763913.006348]	[INFO]	Hand Detection Task: Scheduled for 65th time
+[1588406763934.005859]	[INFO]	Hand Detection Task: Scheduled for 66th time
+[1588406763986.034180]	[INFO]	Hand Detection Task: Scheduled for 67th time
+[1588406763990.541260]	[INFO]	Sequencer Task : Scheduled for 84th time
+[1588406764012.597656]	[INFO]	Hand Detection Task: Scheduled for 68th time
+[1588406764032.019043]	[INFO]	Hand Detection Task: Scheduled for 69th time
+[1588406764064.713379]	[INFO]	Hand Detection Task: Scheduled for 70th time
+[1588406764091.004883]	[INFO]	Sequencer Task : Scheduled for 85th time
+[1588406764091.045654]	[INFO]	Display UI Task : Scheduled for 17th time
+[1588406764137.924316]	[INFO]	Hand Detection Task: Scheduled for 71th time
+[1588406764191.661865]	[INFO]	Sequencer Task : Scheduled for 86th time
+[1588406764292.309570]	[INFO]	Sequencer Task : Scheduled for 87th time
+[1588406764393.714355]	[INFO]	Sequencer Task : Scheduled for 88th time
+[1588406764466.140869]	[INFO]	Hand Detection Task: Scheduled for 72th time
+[1588406764494.301025]	[INFO]	Sequencer Task : Scheduled for 89th time
+[1588406764589.157227]	[INFO]	Hand Detection Task: Scheduled for 73th time
+[1588406764594.686523]	[INFO]	Sequencer Task : Scheduled for 90th time
+[1588406764594.739990]	[INFO]	Display UI Task : Scheduled for 18th time
+[1588406764695.667969]	[INFO]	Sequencer Task : Scheduled for 91th time
+[1588406764796.303223]	[INFO]	Sequencer Task : Scheduled for 92th time
+[1588406764896.883545]	[INFO]	Sequencer Task : Scheduled for 93th time
+[1588406764903.698730]	[INFO]	Hand Detection Task: Scheduled for 74th time
+[1588406764958.059814]	[INFO]	Hand Detection Task: Scheduled for 75th time
+[1588406764997.558350]	[INFO]	Sequencer Task : Scheduled for 94th time
+[1588406765097.788818]	[INFO]	Sequencer Task : Scheduled for 95th time
+[1588406765097.822266]	[INFO]	Display UI Task : Scheduled for 19th time
+[1588406765101.748535]	[INFO]	Hand Detection Task: Scheduled for 76th time
+[1588406765177.555664]	[INFO]	Hand Detection Task: Scheduled for 77th time
+[1588406765198.612305]	[INFO]	Sequencer Task : Scheduled for 96th time
+[1588406765299.562988]	[INFO]	Sequencer Task : Scheduled for 97th time
+[1588406765339.269531]	[INFO]	Hand Detection Task: Scheduled for 78th time
+[1588406765373.194824]	[INFO]	Hand Detection Task: Scheduled for 79th time
+[1588406765400.644043]	[INFO]	Sequencer Task : Scheduled for 98th time
+[1588406765434.505615]	[INFO]	Hand Detection Task: Scheduled for 80th time
+[1588406765501.085693]	[INFO]	Sequencer Task : Scheduled for 99th time
+[1588406765601.775635]	[INFO]	Sequencer Task : Scheduled for 100th time
+[1588406765601.885010]	[INFO]	Display UI Task : Scheduled for 20th time
+[1588406765639.682373]	[INFO]	Hand Detection Task: Scheduled for 81th time
+[1588406765683.599854]	[INFO]	Hand Detection Task: Scheduled for 82th time
+[1588406765702.303955]	[INFO]	Sequencer Task : Scheduled for 101th time
+[1588406765707.656494]	[INFO]	Hand Detection Task: Scheduled for 83th time
+[1588406765747.209961]	[INFO]	Hand Detection Task: Scheduled for 84th time
+[1588406765773.556641]	[INFO]	Hand Detection Task: Scheduled for 85th time
+[1588406765802.376221]	[INFO]	Sequencer Task : Scheduled for 102th time
+[1588406765831.662842]	[INFO]	Hand Detection Task: Scheduled for 86th time
+[1588406765902.484375]	[INFO]	Sequencer Task : Scheduled for 103th time
+[1588406766002.717041]	[INFO]	Sequencer Task : Scheduled for 104th time
+[1588406766008.912842]	[INFO]	Hand Detection Task: Scheduled for 87th time
+[1588406766104.458496]	[INFO]	Sequencer Task : Scheduled for 105th time
+[1588406766104.523926]	[INFO]	Display UI Task : Scheduled for 21th time
+[1588406766126.927002]	[INFO]	Hand Detection Task: Scheduled for 88th time
+[1588406766204.760986]	[INFO]	Sequencer Task : Scheduled for 106th time
+[1588406766231.062012]	[INFO]	Hand Detection Task: Scheduled for 89th time
+[1588406766305.720459]	[INFO]	Sequencer Task : Scheduled for 107th time
+[1588406766406.108643]	[INFO]	Sequencer Task : Scheduled for 108th time
+[1588406766506.606934]	[INFO]	Sequencer Task : Scheduled for 109th time
+[1588406766607.142090]	[INFO]	Sequencer Task : Scheduled for 110th time
+[1588406766607.192383]	[INFO]	Display UI Task : Scheduled for 22th time
+[1588406766707.681152]	[INFO]	Sequencer Task : Scheduled for 111th time
+[1588406766781.729492]	[INFO]	Hand Detection Task: Scheduled for 90th time
+[1588406766800.643311]	[INFO]	Hand Detection Task: Scheduled for 91th time
+[1588406766808.159912]	[INFO]	Sequencer Task : Scheduled for 112th time
+[1588406766820.915527]	[INFO]	Hand Detection Task: Scheduled for 92th time
+[1588406766845.336670]	[INFO]	Hand Detection Task: Scheduled for 93th time
+[1588406766867.267822]	[INFO]	Hand Detection Task: Scheduled for 94th time
+[1588406766882.663574]	[INFO]	Hand Detection Task: Scheduled for 95th time
+[1588406766908.251953]	[INFO]	Sequencer Task : Scheduled for 113th time
+[1588406766975.195801]	[INFO]	Hand Detection Task: Scheduled for 96th time
+[1588406767008.802979]	[INFO]	Sequencer Task : Scheduled for 114th time
+[1588406767108.973389]	[INFO]	Sequencer Task : Scheduled for 115th time
+[1588406767109.173340]	[INFO]	Display UI Task : Scheduled for 23th time
+[1588406767177.893311]	[INFO]	Hand Detection Task: Scheduled for 97th time
+[1588406767199.196289]	[INFO]	Hand Detection Task: Scheduled for 98th time
+[1588406767209.314453]	[INFO]	Sequencer Task : Scheduled for 116th time
+[1588406767248.806641]	[INFO]	Hand Detection Task: Scheduled for 99th time
+[1588406767309.474365]	[INFO]	Sequencer Task : Scheduled for 117th time
+[1588406767360.923828]	[INFO]	Hand Detection Task: Scheduled for 100th time
+[1588406767388.733154]	[INFO]	Hand Detection Task: Scheduled for 101th time
+[1588406767410.131348]	[INFO]	Sequencer Task : Scheduled for 118th time
+[1588406767417.229248]	[INFO]	Hand Detection Task: Scheduled for 102th time
+[1588406767510.953613]	[INFO]	Sequencer Task : Scheduled for 119th time
+[1588406767559.386230]	[INFO]	Hand Detection Task: Scheduled for 103th time
+[1588406767611.116455]	[INFO]	Sequencer Task : Scheduled for 120th time
+[1588406767611.186279]	[INFO]	Display UI Task : Scheduled for 24th time
+[1588406767711.481934]	[INFO]	Sequencer Task : Scheduled for 121th time
+[1588406767731.381104]	[INFO]	Hand Detection Task: Scheduled for 104th time
+[1588406767804.478516]	[INFO]	Hand Detection Task: Scheduled for 105th time
+[1588406767811.624512]	[INFO]	Sequencer Task : Scheduled for 122th time
+[1588406767856.383789]	[INFO]	Hand Detection Task: Scheduled for 106th time
+[1588406767875.007324]	[INFO]	Hand Detection Task: Scheduled for 107th time
+[1588406767912.051758]	[INFO]	Sequencer Task : Scheduled for 123th time
+[1588406768012.650391]	[INFO]	Sequencer Task : Scheduled for 124th time
+[1588406768079.256592]	[INFO]	Hand Detection Task: Scheduled for 108th time
+[1588406768099.627686]	[INFO]	Hand Detection Task: Scheduled for 109th time
+[1588406768113.162598]	[INFO]	Sequencer Task : Scheduled for 125th time
+[1588406768113.244629]	[INFO]	Display UI Task : Scheduled for 25th time
+[1588406768122.223145]	[INFO]	Hand Detection Task: Scheduled for 110th time
+[1588406768142.880615]	[INFO]	Hand Detection Task: Scheduled for 111th time
+[1588406768197.142578]	[INFO]	Hand Detection Task: Scheduled for 112th time
+[1588406768213.844238]	[INFO]	Sequencer Task : Scheduled for 126th time
+[1588406768244.644043]	[INFO]	Hand Detection Task: Scheduled for 113th time
+[1588406768294.831787]	[INFO]	Hand Detection Task: Scheduled for 114th time
+[1588406768314.637451]	[INFO]	Sequencer Task : Scheduled for 127th time
+[1588406768317.592041]	[INFO]	Hand Detection Task: Scheduled for 115th time
+[1588406768358.391602]	[INFO]	Hand Detection Task: Scheduled for 116th time
+[1588406768391.798340]	[INFO]	Hand Detection Task: Scheduled for 117th time
+[1588406768414.950195]	[INFO]	Sequencer Task : Scheduled for 128th time
+[1588406768451.265625]	[INFO]	Hand Detection Task: Scheduled for 118th time
+[1588406768470.650879]	[INFO]	Hand Detection Task: Scheduled for 119th time
+[1588406768492.688965]	[INFO]	Hand Detection Task: Scheduled for 120th time
+[1588406768515.681152]	[INFO]	Sequencer Task : Scheduled for 129th time
+[1588406768616.607910]	[INFO]	Sequencer Task : Scheduled for 130th time
+[1588406768616.650146]	[INFO]	Display UI Task : Scheduled for 26th time
+[1588406768716.695557]	[INFO]	Sequencer Task : Scheduled for 131th time
+[1588406768801.631836]	[INFO]	Hand Detection Task: Scheduled for 121th time
+[1588406768817.135010]	[INFO]	Sequencer Task : Scheduled for 132th time
+[1588406768818.249512]	[INFO]	Hand Detection Task: Scheduled for 122th time
+[1588406768833.751221]	[INFO]	Hand Detection Task: Scheduled for 123th time
+[1588406768849.587646]	[INFO]	Hand Detection Task: Scheduled for 124th time
+[1588406768867.768311]	[INFO]	Hand Detection Task: Scheduled for 125th time
+[1588406768893.303955]	[INFO]	Hand Detection Task: Scheduled for 126th time
+[1588406768917.214600]	[INFO]	Sequencer Task : Scheduled for 133th time
+[1588406769018.220215]	[INFO]	Sequencer Task : Scheduled for 134th time
+[1588406769118.465332]	[INFO]	Sequencer Task : Scheduled for 135th time
+[1588406769118.532959]	[INFO]	Display UI Task : Scheduled for 27th time
+[1588406769132.520752]	[INFO]	Hand Detection Task: Scheduled for 127th time
+[1588406769163.179199]	[INFO]	Hand Detection Task: Scheduled for 128th time
+[1588406769218.295898]	[INFO]	Hand Detection Task: Scheduled for 129th time
+[1588406769218.892822]	[INFO]	Sequencer Task : Scheduled for 136th time
+[1588406769299.327393]	[INFO]	Hand Detection Task: Scheduled for 130th time
+[1588406769319.331299]	[INFO]	Sequencer Task : Scheduled for 137th time
+[1588406769367.935547]	[INFO]	Hand Detection Task: Scheduled for 131th time
+[1588406769417.463867]	[INFO]	Hand Detection Task: Scheduled for 132th time
+[1588406769419.604980]	[INFO]	Sequencer Task : Scheduled for 138th time
+[1588406769519.542480]	[INFO]	Hand Detection Task: Scheduled for 133th time
+[1588406769520.846680]	[INFO]	Sequencer Task : Scheduled for 139th time
+[1588406769621.197510]	[INFO]	Sequencer Task : Scheduled for 140th time
+[1588406769621.253662]	[INFO]	Display UI Task : Scheduled for 28th time
+[1588406769672.914551]	[INFO]	Hand Detection Task: Scheduled for 134th time
+[1588406769721.539795]	[INFO]	Sequencer Task : Scheduled for 141th time
+[1588406769769.280029]	[INFO]	Hand Detection Task: Scheduled for 135th time
+[1588406769786.545166]	[INFO]	Hand Detection Task: Scheduled for 136th time
+[1588406769821.793945]	[INFO]	Sequencer Task : Scheduled for 142th time
+[1588406769867.235352]	[INFO]	Hand Detection Task: Scheduled for 137th time
+[1588406769922.058105]	[INFO]	Sequencer Task : Scheduled for 143th time
+[1588406770002.732178]	[INFO]	Hand Detection Task: Scheduled for 138th time
+[1588406770022.528076]	[INFO]	Sequencer Task : Scheduled for 144th time
+[1588406770094.647949]	[INFO]	Hand Detection Task: Scheduled for 139th time
+[1588406770123.073730]	[INFO]	Sequencer Task : Scheduled for 145th time
+[1588406770123.118652]	[INFO]	Display UI Task : Scheduled for 29th time
+[1588406770223.181396]	[INFO]	Sequencer Task : Scheduled for 146th time
+[1588406770237.705078]	[INFO]	Hand Detection Task: Scheduled for 140th time
+[1588406770323.550781]	[INFO]	Sequencer Task : Scheduled for 147th time
+[1588406770327.625977]	[INFO]	Hand Detection Task: Scheduled for 141th time
+[1588406770425.720947]	[INFO]	Sequencer Task : Scheduled for 148th time
+[1588406770474.446777]	[INFO]	Hand Detection Task: Scheduled for 142th time
+[1588406770526.202148]	[INFO]	Sequencer Task : Scheduled for 149th time
+[1588406770570.565186]	[INFO]	Hand Detection Task: Scheduled for 143th time
+[1588406770626.551270]	[INFO]	Sequencer Task : Scheduled for 150th time
+[1588406770626.630615]	[INFO]	Display UI Task : Scheduled for 30th time
+[1588406770644.000732]	[INFO]	Hand Detection Task: Scheduled for 144th time
+[1588406770675.476562]	[INFO]	Hand Detection Task: Scheduled for 145th time
+[1588406770707.628662]	[INFO]	Hand Detection Task: Scheduled for 146th time
+[1588406770726.620605]	[INFO]	Sequencer Task : Scheduled for 151th time
+[1588406770745.323730]	[INFO]	Hand Detection Task: Scheduled for 147th time
+[1588406770776.988770]	[INFO]	Hand Detection Task: Scheduled for 148th time
+[1588406770823.583008]	[INFO]	Hand Detection Task: Scheduled for 149th time
+[1588406770826.687988]	[INFO]	Sequencer Task : Scheduled for 152th time
+[1588406770911.802979]	[INFO]	Hand Detection Task: Scheduled for 150th time
+[1588406770927.034424]	[INFO]	Sequencer Task : Scheduled for 153th time
+[1588406770973.148193]	[INFO]	Hand Detection Task: Scheduled for 151th time
+[1588406771027.332275]	[INFO]	Sequencer Task : Scheduled for 154th time
+[1588406771032.723145]	[INFO]	Hand Detection Task: Scheduled for 152th time
+[1588406771112.899170]	[INFO]	Hand Detection Task: Scheduled for 153th time
+[1588406771127.495605]	[INFO]	Sequencer Task : Scheduled for 155th time
+[1588406771127.535889]	[INFO]	Display UI Task : Scheduled for 31th time
+[1588406771164.951172]	[INFO]	Hand Detection Task: Scheduled for 154th time
+[1588406771218.143799]	[INFO]	Hand Detection Task: Scheduled for 155th time
+[1588406771227.663574]	[INFO]	Sequencer Task : Scheduled for 156th time
+[1588406771244.574219]	[INFO]	Hand Detection Task: Scheduled for 156th time
+[1588406771328.418457]	[INFO]	Sequencer Task : Scheduled for 157th time
+[1588406771328.507324]	[INFO]	Hand Detection Task: Scheduled for 157th time
+[1588406771428.504395]	[INFO]	Sequencer Task : Scheduled for 158th time
+[1588406771451.587402]	[INFO]	Hand Detection Task: Scheduled for 158th time
+[1588406771528.556396]	[INFO]	Sequencer Task : Scheduled for 159th time
+[1588406771528.637451]	[INFO]	Hand Detection Task: Scheduled for 159th time
+[1588406771629.042236]	[INFO]	Sequencer Task : Scheduled for 160th time
+[1588406771629.080322]	[INFO]	Display UI Task : Scheduled for 32th time
+[1588406771658.675049]	[INFO]	Hand Detection Task: Scheduled for 160th time
+[1588406771729.239502]	[INFO]	Sequencer Task : Scheduled for 161th time
+[1588406771745.259521]	[INFO]	Hand Detection Task: Scheduled for 161th time
+[1588406771829.387695]	[INFO]	Sequencer Task : Scheduled for 162th time
+[1588406771842.978516]	[INFO]	Hand Detection Task: Scheduled for 162th time
+[1588406771930.618164]	[INFO]	Sequencer Task : Scheduled for 163th time
+[1588406771950.479492]	[INFO]	Hand Detection Task: Scheduled for 163th time
+[1588406772031.210693]	[INFO]	Sequencer Task : Scheduled for 164th time
+[1588406772053.346436]	[INFO]	Hand Detection Task: Scheduled for 164th time
+[1588406772131.937988]	[INFO]	Sequencer Task : Scheduled for 165th time
+[1588406772131.973389]	[INFO]	Display UI Task : Scheduled for 33th time
+[1588406772132.061279]	[INFO]	Hand Detection Task: Scheduled for 165th time
+[1588406772232.188477]	[INFO]	Sequencer Task : Scheduled for 166th time
+[1588406772256.278076]	[INFO]	Hand Detection Task: Scheduled for 166th time
+[1588406772332.737549]	[INFO]	Sequencer Task : Scheduled for 167th time
+[1588406772346.708496]	[INFO]	Hand Detection Task: Scheduled for 167th time
+[1588406772432.853760]	[INFO]	Sequencer Task : Scheduled for 168th time
+[1588406772432.939209]	[INFO]	Hand Detection Task: Scheduled for 168th time
+[1588406772533.246338]	[INFO]	Sequencer Task : Scheduled for 169th time
+[1588406772536.997803]	[INFO]	Hand Detection Task: Scheduled for 169th time
+[1588406772633.404297]	[INFO]	Sequencer Task : Scheduled for 170th time
+[1588406772633.444580]	[INFO]	Display UI Task : Scheduled for 34th time
+[1588406772649.005371]	[INFO]	Hand Detection Task: Scheduled for 170th time
+[1588406772733.725586]	[INFO]	Sequencer Task : Scheduled for 171th time
+[1588406772733.765137]	[INFO]	Hand Detection Task: Scheduled for 171th time
+[1588406772833.992432]	[INFO]	Sequencer Task : Scheduled for 172th time
+[1588406772834.022949]	[INFO]	Hand Detection Task: Scheduled for 172th time
+[1588406772934.048584]	[INFO]	Sequencer Task : Scheduled for 173th time
+[1588406772934.088379]	[INFO]	Hand Detection Task: Scheduled for 173th time
+[1588406773034.195312]	[INFO]	Sequencer Task : Scheduled for 174th time
+[1588406773135.077637]	[INFO]	Sequencer Task : Scheduled for 175th time
+[1588406773158.477783]	[INFO]	Display UI Task : Scheduled for 35th time
+[1588406773235.574219]	[INFO]	Sequencer Task : Scheduled for 176th time
+[1588406773255.654785]	[INFO]	Hand Detection Task: Scheduled for 174th time
+[1588406773273.852295]	[INFO]	Hand Detection Task: Scheduled for 175th time
+[1588406773336.222900]	[INFO]	Sequencer Task : Scheduled for 177th time
+[1588406773396.163574]	[INFO]	Hand Detection Task: Scheduled for 176th time
+[1588406773415.778809]	[INFO]	Hand Detection Task: Scheduled for 177th time
+[1588406773436.568359]	[INFO]	Sequencer Task : Scheduled for 178th time
+[1588406773459.081543]	[INFO]	Hand Detection Task: Scheduled for 178th time
+[1588406773537.192139]	[INFO]	Sequencer Task : Scheduled for 179th time
+[1588406773628.048096]	[INFO]	Hand Detection Task: Scheduled for 179th time
+[1588406773637.507568]	[INFO]	Sequencer Task : Scheduled for 180th time
+[1588406773637.653076]	[INFO]	Display UI Task : Scheduled for 36th time
+[1588406773716.453613]	[INFO]	Hand Detection Task: Scheduled for 180th time
+[1588406773737.553223]	[INFO]	Sequencer Task : Scheduled for 181th time
+[1588406773837.862305]	[INFO]	Sequencer Task : Scheduled for 182th time
+[1588406773861.053467]	[INFO]	Hand Detection Task: Scheduled for 181th time
+[1588406773939.227539]	[INFO]	Sequencer Task : Scheduled for 183th time
+[1588406773951.647461]	[INFO]	Hand Detection Task: Scheduled for 182th time
+[1588406774012.615723]	[INFO]	Hand Detection Task: Scheduled for 183th time
+[1588406774039.411865]	[INFO]	Sequencer Task : Scheduled for 184th time
+[1588406774139.781738]	[INFO]	Sequencer Task : Scheduled for 185th time
+[1588406774139.888428]	[INFO]	Display UI Task : Scheduled for 37th time
+[1588406774218.760986]	[INFO]	Hand Detection Task: Scheduled for 184th time
+[1588406774240.023438]	[INFO]	Sequencer Task : Scheduled for 186th time
+[1588406774257.843262]	[INFO]	Hand Detection Task: Scheduled for 185th time
+[1588406774316.475342]	[INFO]	Hand Detection Task: Scheduled for 186th time
+[1588406774343.659180]	[INFO]	Sequencer Task : Scheduled for 187th time
+[1588406774406.583252]	[INFO]	Hand Detection Task: Scheduled for 187th time
+[1588406774444.040771]	[INFO]	Sequencer Task : Scheduled for 188th time
+[1588406774543.683594]	[INFO]	Hand Detection Task: Scheduled for 188th time
+[1588406774544.364014]	[INFO]	Sequencer Task : Scheduled for 189th time
+[1588406774564.048340]	[INFO]	Hand Detection Task: Scheduled for 189th time
+[1588406774644.449463]	[INFO]	Sequencer Task : Scheduled for 190th time
+[1588406774644.559082]	[INFO]	Hand Detection Task: Scheduled for 190th time
+[1588406774644.575684]	[INFO]	Display UI Task : Scheduled for 38th time
+[1588406774744.760742]	[INFO]	Sequencer Task : Scheduled for 191th time
+[1588406774772.648926]	[INFO]	Hand Detection Task: Scheduled for 191th time
+[1588406774845.181885]	[INFO]	Sequencer Task : Scheduled for 192th time
+[1588406774851.947021]	[INFO]	Hand Detection Task: Scheduled for 192th time
+[1588406774945.865723]	[INFO]	Sequencer Task : Scheduled for 193th time
+[1588406774968.745850]	[INFO]	Hand Detection Task: Scheduled for 193th time
+[1588406775045.911133]	[INFO]	Sequencer Task : Scheduled for 194th time
+[1588406775061.628174]	[INFO]	Hand Detection Task: Scheduled for 194th time
+[1588406775146.829834]	[INFO]	Sequencer Task : Scheduled for 195th time
+[1588406775146.850586]	[INFO]	Display UI Task : Scheduled for 39th time
+[1588406775206.698242]	[INFO]	Hand Detection Task: Scheduled for 195th time
+[1588406775247.433105]	[INFO]	Sequencer Task : Scheduled for 196th time
+[1588406775303.061768]	[INFO]	Hand Detection Task: Scheduled for 196th time
+[1588406775348.057129]	[INFO]	Sequencer Task : Scheduled for 197th time
+[1588406775406.504150]	[INFO]	Hand Detection Task: Scheduled for 197th time
+[1588406775448.712646]	[INFO]	Sequencer Task : Scheduled for 198th time
+[1588406775471.927490]	[INFO]	Hand Detection Task: Scheduled for 198th time
+[1588406775549.829590]	[INFO]	Sequencer Task : Scheduled for 199th time
+[1588406775549.906494]	[INFO]	Hand Detection Task: Scheduled for 199th time
+[1588406775650.120117]	[INFO]	Sequencer Task : Scheduled for 200th time
+[1588406775650.208984]	[INFO]	Hand Detection Task: Scheduled for 200th time
+[1588406775650.229004]	[INFO]	Display UI Task : Scheduled for 40th time
+[1588406775751.160156]	[INFO]	Sequencer Task : Scheduled for 201th time
+[1588406775751.350342]	[INFO]	Hand Detection Task: Scheduled for 201th time
+[1588406775851.446045]	[INFO]	Sequencer Task : Scheduled for 202th time
+[1588406775869.222168]	[INFO]	Hand Detection Task: Scheduled for 202th time
+[1588406775951.566162]	[INFO]	Sequencer Task : Scheduled for 203th time
+[1588406775951.604004]	[INFO]	Hand Detection Task: Scheduled for 203th time
+[1588406776051.823242]	[INFO]	Sequencer Task : Scheduled for 204th time
+[1588406776051.861084]	[INFO]	Hand Detection Task: Scheduled for 204th time
+[1588406776152.135010]	[INFO]	Sequencer Task : Scheduled for 205th time
+[1588406776152.217529]	[INFO]	Hand Detection Task: Scheduled for 205th time
+[1588406776152.237305]	[INFO]	Display UI Task : Scheduled for 41th time
+[1588406776252.543945]	[INFO]	Sequencer Task : Scheduled for 206th time
+[1588406776253.735840]	[INFO]	Hand Detection Task: Scheduled for 206th time
+[1588406776353.047363]	[INFO]	Sequencer Task : Scheduled for 207th time
+[1588406776360.805664]	[INFO]	Hand Detection Task: Scheduled for 207th time
+[1588406776453.510498]	[INFO]	Sequencer Task : Scheduled for 208th time
+[1588406776461.464355]	[INFO]	Hand Detection Task: Scheduled for 208th time
+[1588406776553.990479]	[INFO]	Sequencer Task : Scheduled for 209th time
+[1588406776563.032471]	[INFO]	Hand Detection Task: Scheduled for 209th time
+[1588406776654.678467]	[INFO]	Sequencer Task : Scheduled for 210th time
+[1588406776666.530273]	[INFO]	Hand Detection Task: Scheduled for 210th time
+[1588406776666.545654]	[INFO]	Display UI Task : Scheduled for 42th time
+[1588406776758.545654]	[INFO]	Sequencer Task : Scheduled for 211th time
+[1588406776768.435059]	[INFO]	Hand Detection Task: Scheduled for 211th time
+[1588406776858.738281]	[INFO]	Sequencer Task : Scheduled for 212th time
+[1588406776859.855957]	[INFO]	Hand Detection Task: Scheduled for 212th time
+[1588406776959.174805]	[INFO]	Sequencer Task : Scheduled for 213th time
+[1588406776964.276367]	[INFO]	Hand Detection Task: Scheduled for 213th time
+[1588406777059.757568]	[INFO]	Sequencer Task : Scheduled for 214th time
+[1588406777062.759521]	[INFO]	Hand Detection Task: Scheduled for 214th time
+[1588406777160.514893]	[INFO]	Sequencer Task : Scheduled for 215th time
+[1588406777168.503906]	[INFO]	Hand Detection Task: Scheduled for 215th time
+[1588406777168.518311]	[INFO]	Display UI Task : Scheduled for 43th time
+[1588406777260.959717]	[INFO]	Sequencer Task : Scheduled for 216th time
+[1588406777270.094971]	[INFO]	Hand Detection Task: Scheduled for 216th time
+[1588406777361.457031]	[INFO]	Sequencer Task : Scheduled for 217th time
+[1588406777361.498047]	[INFO]	Hand Detection Task: Scheduled for 217th time
+[1588406777461.731934]	[INFO]	Sequencer Task : Scheduled for 218th time
+[1588406777483.840088]	[INFO]	Hand Detection Task: Scheduled for 218th time
+[1588406777561.807373]	[INFO]	Sequencer Task : Scheduled for 219th time
+[1588406777602.740967]	[INFO]	Hand Detection Task: Scheduled for 219th time
+[1588406777662.876953]	[INFO]	Sequencer Task : Scheduled for 220th time
+[1588406777663.017578]	[INFO]	Hand Detection Task: Scheduled for 220th time
+[1588406777759.758545]	[INFO]	Display UI Task : Scheduled for 44th time
+[1588406777762.975830]	[INFO]	Sequencer Task : Scheduled for 221th time
+[1588406777770.576172]	[INFO]	Hand Detection Task: Scheduled for 221th time
+[1588406777863.317139]	[INFO]	Sequencer Task : Scheduled for 222th time
+[1588406777864.599609]	[INFO]	Hand Detection Task: Scheduled for 222th time
+[1588406777963.722656]	[INFO]	Sequencer Task : Scheduled for 223th time
+[1588406777974.751709]	[INFO]	Hand Detection Task: Scheduled for 223th time
+[1588406778064.423584]	[INFO]	Sequencer Task : Scheduled for 224th time
+[1588406778075.095459]	[INFO]	Hand Detection Task: Scheduled for 224th time
+[1588406778164.952148]	[INFO]	Sequencer Task : Scheduled for 225th time
+[1588406778175.882080]	[INFO]	Hand Detection Task: Scheduled for 225th time
+[1588406778175.898193]	[INFO]	Display UI Task : Scheduled for 45th time
+[1588406778265.545166]	[INFO]	Sequencer Task : Scheduled for 226th time
+[1588406778283.909912]	[INFO]	Hand Detection Task: Scheduled for 226th time
+[1588406778365.614502]	[INFO]	Sequencer Task : Scheduled for 227th time
+[1588406778365.669922]	[INFO]	Hand Detection Task: Scheduled for 227th time
+[1588406778465.860596]	[INFO]	Sequencer Task : Scheduled for 228th time
+[1588406778482.981201]	[INFO]	Hand Detection Task: Scheduled for 228th time
+[1588406778567.481934]	[INFO]	Sequencer Task : Scheduled for 229th time
+[1588406778567.545654]	[INFO]	Hand Detection Task: Scheduled for 229th time
+[1588406778667.778809]	[INFO]	Sequencer Task : Scheduled for 230th time
+[1588406778682.538818]	[INFO]	Hand Detection Task: Scheduled for 230th time
+[1588406778682.551025]	[INFO]	Display UI Task : Scheduled for 46th time
+[1588406778768.013184]	[INFO]	Sequencer Task : Scheduled for 231th time
+[1588406778798.820801]	[INFO]	Hand Detection Task: Scheduled for 231th time
+[1588406778868.837646]	[INFO]	Sequencer Task : Scheduled for 232th time
+[1588406778908.934082]	[INFO]	Hand Detection Task: Scheduled for 232th time
+[1588406778969.213623]	[INFO]	Sequencer Task : Scheduled for 233th time
+[1588406779011.050049]	[INFO]	Hand Detection Task: Scheduled for 233th time
+[1588406779069.581543]	[INFO]	Sequencer Task : Scheduled for 234th time
+[1588406779170.074951]	[INFO]	Sequencer Task : Scheduled for 235th time
+[1588406779170.143555]	[INFO]	Display UI Task : Scheduled for 47th time
+[1588406779178.728271]	[INFO]	Hand Detection Task: Scheduled for 234th time
+[1588406779270.694580]	[INFO]	Sequencer Task : Scheduled for 236th time
+[1588406779275.930664]	[INFO]	Hand Detection Task: Scheduled for 235th time
+[1588406779371.035889]	[INFO]	Sequencer Task : Scheduled for 237th time
+[1588406779471.512939]	[INFO]	Sequencer Task : Scheduled for 238th time
+[1588406779483.386719]	[INFO]	Hand Detection Task: Scheduled for 236th time
+[1588406779539.087158]	[INFO]	Hand Detection Task: Scheduled for 237th time
+[1588406779572.677002]	[INFO]	Sequencer Task : Scheduled for 239th time
+[1588406779673.218262]	[INFO]	Sequencer Task : Scheduled for 240th time
+[1588406779673.256592]	[INFO]	Display UI Task : Scheduled for 48th time
+[1588406779682.039307]	[INFO]	Hand Detection Task: Scheduled for 238th time
+[1588406779773.269287]	[INFO]	Sequencer Task : Scheduled for 241th time
+[1588406779775.761230]	[INFO]	Hand Detection Task: Scheduled for 239th time
+[1588406779869.416992]	[INFO]	Hand Detection Task: Scheduled for 240th time
+[1588406779873.331299]	[INFO]	Sequencer Task : Scheduled for 242th time
+[1588406779973.661133]	[INFO]	Hand Detection Task: Scheduled for 241th time
+[1588406779973.843750]	[INFO]	Sequencer Task : Scheduled for 243th time
+[1588406780062.594727]	[INFO]	Hand Detection Task: Scheduled for 242th time
+[1588406780074.193604]	[INFO]	Sequencer Task : Scheduled for 244th time
+[1588406780174.910889]	[INFO]	Sequencer Task : Scheduled for 245th time
+[1588406780174.948975]	[INFO]	Display UI Task : Scheduled for 49th time
+[1588406780219.833740]	[INFO]	Hand Detection Task: Scheduled for 243th time
+[1588406780275.047607]	[INFO]	Sequencer Task : Scheduled for 246th time
+[1588406780310.830322]	[INFO]	Hand Detection Task: Scheduled for 244th time
+[1588406780375.383057]	[INFO]	Sequencer Task : Scheduled for 247th time
+[1588406780475.577148]	[INFO]	Sequencer Task : Scheduled for 248th time
+[1588406780511.786377]	[INFO]	Hand Detection Task: Scheduled for 245th time
+[1588406780565.012207]	[INFO]	Hand Detection Task: Scheduled for 246th time
+[1588406780576.042480]	[INFO]	Sequencer Task : Scheduled for 249th time
+[1588406780660.044189]	[INFO]	Hand Detection Task: Scheduled for 247th time
+[1588406780676.086914]	[INFO]	Sequencer Task : Scheduled for 250th time
+[1588406780676.120605]	[INFO]	Display UI Task : Scheduled for 50th time
+[1588406780712.679199]	[INFO]	Hand Detection Task: Scheduled for 248th time
+[1588406780776.166992]	[INFO]	Sequencer Task : Scheduled for 251th time
+[1588406780866.761230]	[INFO]	Hand Detection Task: Scheduled for 249th time
+[1588406780876.549316]	[INFO]	Sequencer Task : Scheduled for 252th time
+[1588406780928.407715]	[INFO]	Hand Detection Task: Scheduled for 250th time
+[1588406780977.130127]	[INFO]	Sequencer Task : Scheduled for 253th time
+[1588406781021.655518]	[INFO]	Hand Detection Task: Scheduled for 251th time
+[1588406781077.194580]	[INFO]	Sequencer Task : Scheduled for 254th time
+[1588406781136.805664]	[INFO]	Hand Detection Task: Scheduled for 252th time
+[1588406781177.783936]	[INFO]	Sequencer Task : Scheduled for 255th time
+[1588406781177.825684]	[INFO]	Display UI Task : Scheduled for 51th time
+[1588406781278.346436]	[INFO]	Sequencer Task : Scheduled for 256th time
+[1588406781302.710449]	[INFO]	Hand Detection Task: Scheduled for 253th time
+[1588406781360.798584]	[INFO]	Hand Detection Task: Scheduled for 254th time
+[1588406781378.695312]	[INFO]	Sequencer Task : Scheduled for 257th time
+[1588406781441.568604]	[INFO]	Hand Detection Task: Scheduled for 255th time
+[1588406781478.938232]	[INFO]	Sequencer Task : Scheduled for 258th time
+[1588406781579.677246]	[INFO]	Sequencer Task : Scheduled for 259th time
+[1588406781638.694580]	[INFO]	Hand Detection Task: Scheduled for 256th time
+[1588406781680.012939]	[INFO]	Sequencer Task : Scheduled for 260th time
+[1588406781680.047852]	[INFO]	Display UI Task : Scheduled for 52th time
+[1588406781733.621826]	[INFO]	Hand Detection Task: Scheduled for 257th time
+[1588406781780.542725]	[INFO]	Sequencer Task : Scheduled for 261th time
+[1588406781881.589355]	[INFO]	Sequencer Task : Scheduled for 262th time
+[1588406781940.672852]	[INFO]	Hand Detection Task: Scheduled for 258th time
+[1588406781981.653564]	[INFO]	Sequencer Task : Scheduled for 263th time
+[1588406782046.463135]	[INFO]	Hand Detection Task: Scheduled for 259th time
+[1588406782081.908203]	[INFO]	Sequencer Task : Scheduled for 264th time
+[1588406782173.934082]	[INFO]	Hand Detection Task: Scheduled for 260th time
+[1588406782182.242676]	[INFO]	Sequencer Task : Scheduled for 265th time
+[1588406782182.278320]	[INFO]	Display UI Task : Scheduled for 53th time
+[1588406782266.540283]	[INFO]	Hand Detection Task: Scheduled for 261th time
+[1588406782283.146240]	[INFO]	Sequencer Task : Scheduled for 266th time
+[1588406782378.601318]	[INFO]	Hand Detection Task: Scheduled for 262th time
+[1588406782383.487061]	[INFO]	Sequencer Task : Scheduled for 267th time
+[1588406782410.616943]	[INFO]	Hand Detection Task: Scheduled for 263th time
+[1588406782446.645752]	[INFO]	Hand Detection Task: Scheduled for 264th time
+[1588406782476.667725]	[INFO]	Hand Detection Task: Scheduled for 265th time
+[1588406782483.620361]	[INFO]	Sequencer Task : Scheduled for 268th time
+[1588406782508.633545]	[INFO]	Hand Detection Task: Scheduled for 266th time
+[1588406782549.711670]	[INFO]	Hand Detection Task: Scheduled for 267th time
+[1588406782583.903564]	[INFO]	Sequencer Task : Scheduled for 269th time
+[1588406782584.870117]	[INFO]	Hand Detection Task: Scheduled for 268th time
+[1588406782626.602539]	[INFO]	Hand Detection Task: Scheduled for 269th time
+[1588406782684.947998]	[INFO]	Sequencer Task : Scheduled for 270th time
+[1588406782685.129395]	[INFO]	Hand Detection Task: Scheduled for 270th time
+[1588406782760.447510]	[INFO]	Display UI Task : Scheduled for 54th time
+[1588406782785.594238]	[INFO]	Sequencer Task : Scheduled for 271th time
+[1588406782785.678467]	[INFO]	Hand Detection Task: Scheduled for 271th time
+[1588406782886.103760]	[INFO]	Sequencer Task : Scheduled for 272th time
+[1588406782894.132324]	[INFO]	Hand Detection Task: Scheduled for 272th time
+[1588406782986.958740]	[INFO]	Sequencer Task : Scheduled for 273th time
+[1588406783017.390381]	[INFO]	Hand Detection Task: Scheduled for 273th time
+[1588406783087.371582]	[INFO]	Sequencer Task : Scheduled for 274th time
+[1588406783087.503174]	[INFO]	Hand Detection Task: Scheduled for 274th time
+[1588406783187.769043]	[INFO]	Sequencer Task : Scheduled for 275th time
+[1588406783211.143066]	[INFO]	Hand Detection Task: Scheduled for 275th time
+[1588406783211.158447]	[INFO]	Display UI Task : Scheduled for 55th time
+[1588406783288.567383]	[INFO]	Sequencer Task : Scheduled for 276th time
+[1588406783288.739258]	[INFO]	Hand Detection Task: Scheduled for 276th time
+[1588406783389.086670]	[INFO]	Sequencer Task : Scheduled for 277th time
+[1588406783389.129883]	[INFO]	Hand Detection Task: Scheduled for 277th time
+[1588406783489.427246]	[INFO]	Sequencer Task : Scheduled for 278th time
+[1588406783489.581299]	[INFO]	Hand Detection Task: Scheduled for 278th time
+[1588406783589.555908]	[INFO]	Sequencer Task : Scheduled for 279th time
+[1588406783602.433105]	[INFO]	Hand Detection Task: Scheduled for 279th time
+[1588406783689.582031]	[INFO]	Sequencer Task : Scheduled for 280th time
+[1588406783689.660645]	[INFO]	Hand Detection Task: Scheduled for 280th time
+[1588406783689.671143]	[INFO]	Display UI Task : Scheduled for 56th time
+[1588406783789.684082]	[INFO]	Sequencer Task : Scheduled for 281th time
+[1588406783824.908447]	[INFO]	Hand Detection Task: Scheduled for 281th time
+[1588406783889.750244]	[INFO]	Sequencer Task : Scheduled for 282th time
+[1588406783892.402588]	[INFO]	Hand Detection Task: Scheduled for 282th time
+[1588406783990.182129]	[INFO]	Sequencer Task : Scheduled for 283th time
+[1588406784000.553223]	[INFO]	Hand Detection Task: Scheduled for 283th time
+[1588406784090.799805]	[INFO]	Sequencer Task : Scheduled for 284th time
+[1588406784103.973877]	[INFO]	Hand Detection Task: Scheduled for 284th time
+[1588406784191.333984]	[INFO]	Sequencer Task : Scheduled for 285th time
+[1588406784212.261963]	[INFO]	Hand Detection Task: Scheduled for 285th time
+[1588406784212.284668]	[INFO]	Display UI Task : Scheduled for 57th time
+[1588406784291.741455]	[INFO]	Sequencer Task : Scheduled for 286th time
+[1588406784291.874268]	[INFO]	Hand Detection Task: Scheduled for 286th time
+[1588406784392.890625]	[INFO]	Sequencer Task : Scheduled for 287th time
+[1588406784404.755615]	[INFO]	Hand Detection Task: Scheduled for 287th time
+[1588406784492.976807]	[INFO]	Sequencer Task : Scheduled for 288th time
+[1588406784526.574219]	[INFO]	Hand Detection Task: Scheduled for 288th time
+[1588406784593.194824]	[INFO]	Sequencer Task : Scheduled for 289th time
+[1588406784635.692383]	[INFO]	Hand Detection Task: Scheduled for 289th time
+[1588406784693.663086]	[INFO]	Sequencer Task : Scheduled for 290th time
+[1588406784696.693359]	[INFO]	Hand Detection Task: Scheduled for 290th time
+[1588406784696.716064]	[INFO]	Display UI Task : Scheduled for 58th time
+[1588406784794.099609]	[INFO]	Sequencer Task : Scheduled for 291th time
+[1588406784799.537109]	[INFO]	Hand Detection Task: Scheduled for 291th time
+[1588406784894.571045]	[INFO]	Sequencer Task : Scheduled for 292th time
+[1588406784901.848877]	[INFO]	Hand Detection Task: Scheduled for 292th time
+[1588406784994.796387]	[INFO]	Sequencer Task : Scheduled for 293th time
+[1588406785024.967285]	[INFO]	Hand Detection Task: Scheduled for 293th time
+[1588406785094.872314]	[INFO]	Sequencer Task : Scheduled for 294th time
+[1588406785094.948730]	[INFO]	Hand Detection Task: Scheduled for 294th time
+[1588406785195.655518]	[INFO]	Sequencer Task : Scheduled for 295th time
+[1588406785195.725342]	[INFO]	Hand Detection Task: Scheduled for 295th time
+[1588406785195.741699]	[INFO]	Display UI Task : Scheduled for 59th time
+[1588406785296.636230]	[INFO]	Sequencer Task : Scheduled for 296th time
+[1588406785296.660156]	[INFO]	Hand Detection Task: Scheduled for 296th time
+[1588406785396.876709]	[INFO]	Sequencer Task : Scheduled for 297th time
+[1588406785396.908691]	[INFO]	Hand Detection Task: Scheduled for 297th time
+[1588406785497.534912]	[INFO]	Sequencer Task : Scheduled for 298th time
+[1588406785497.642578]	[INFO]	Hand Detection Task: Scheduled for 298th time
+[1588406785597.781982]	[INFO]	Sequencer Task : Scheduled for 299th time
+[1588406785606.509521]	[INFO]	Hand Detection Task: Scheduled for 299th time
+[1588406785698.318115]	[INFO]	Sequencer Task : Scheduled for 300th time
+[1588406785701.880859]	[INFO]	Hand Detection Task: Scheduled for 300th time
+[1588406785701.935547]	[INFO]	Display UI Task : Scheduled for 60th time
+[1588406785798.935547]	[INFO]	Sequencer Task : Scheduled for 301th time
+[1588406785799.012207]	[INFO]	Hand Detection Task: Scheduled for 301th time
+[1588406785899.577881]	[INFO]	Sequencer Task : Scheduled for 302th time
+[1588406785899.672852]	[INFO]	Hand Detection Task: Scheduled for 302th time
+[1588406786000.775879]	[INFO]	Sequencer Task : Scheduled for 303th time
+[1588406786000.891602]	[INFO]	Hand Detection Task: Scheduled for 303th time
+[1588406786100.987061]	[INFO]	Sequencer Task : Scheduled for 304th time
+[1588406786101.074219]	[INFO]	Hand Detection Task: Scheduled for 304th time
+[1588406786201.278076]	[INFO]	Sequencer Task : Scheduled for 305th time
+[1588406786201.362305]	[INFO]	Display UI Task : Scheduled for 61th time
+[1588406786201.370361]	[INFO]	Hand Detection Task: Scheduled for 305th time
+[1588406786301.526855]	[INFO]	Sequencer Task : Scheduled for 306th time
+[1588406786301.652100]	[INFO]	Hand Detection Task: Scheduled for 306th time
+[1588406786401.647217]	[INFO]	Sequencer Task : Scheduled for 307th time
+[1588406786401.716553]	[INFO]	Hand Detection Task: Scheduled for 307th time
+[1588406786502.626465]	[INFO]	Sequencer Task : Scheduled for 308th time
+[1588406786502.655518]	[INFO]	Hand Detection Task: Scheduled for 308th time
+[1588406786603.077881]	[INFO]	Sequencer Task : Scheduled for 309th time
+[1588406786603.161865]	[INFO]	Hand Detection Task: Scheduled for 309th time
+[1588406786703.286621]	[INFO]	Sequencer Task : Scheduled for 310th time
+[1588406786703.368896]	[INFO]	Hand Detection Task: Scheduled for 310th time
+[1588406786703.385498]	[INFO]	Display UI Task : Scheduled for 62th time
+[1588406786803.942383]	[INFO]	Sequencer Task : Scheduled for 311th time
+[1588406786816.374023]	[INFO]	Hand Detection Task: Scheduled for 311th time
+[1588406786904.385010]	[INFO]	Sequencer Task : Scheduled for 312th time
+[1588406786918.612061]	[INFO]	Hand Detection Task: Scheduled for 312th time
+[1588406787004.862305]	[INFO]	Sequencer Task : Scheduled for 313th time
+[1588406787030.727295]	[INFO]	Hand Detection Task: Scheduled for 313th time
+[1588406787105.108398]	[INFO]	Sequencer Task : Scheduled for 314th time
+[1588406787108.960205]	[INFO]	Hand Detection Task: Scheduled for 314th time
+[1588406787205.177246]	[INFO]	Sequencer Task : Scheduled for 315th time
+[1588406787205.257080]	[INFO]	Hand Detection Task: Scheduled for 315th time
+[1588406787205.281494]	[INFO]	Display UI Task : Scheduled for 63th time
+[1588406787305.219238]	[INFO]	Sequencer Task : Scheduled for 316th time
+[1588406787305.260986]	[INFO]	Hand Detection Task: Scheduled for 316th time
+[1588406787405.454834]	[INFO]	Sequencer Task : Scheduled for 317th time
+[1588406787405.553223]	[INFO]	Hand Detection Task: Scheduled for 317th time
+[1588406787505.838867]	[INFO]	Sequencer Task : Scheduled for 318th time
+[1588406787529.338623]	[INFO]	Hand Detection Task: Scheduled for 318th time
+[1588406787606.020996]	[INFO]	Sequencer Task : Scheduled for 319th time
+[1588406787606.097412]	[INFO]	Hand Detection Task: Scheduled for 319th time
+[1588406787706.338135]	[INFO]	Sequencer Task : Scheduled for 320th time
+[1588406787727.141357]	[INFO]	Hand Detection Task: Scheduled for 320th time
+[1588406787727.168457]	[INFO]	Display UI Task : Scheduled for 64th time
+[1588406787807.030762]	[INFO]	Sequencer Task : Scheduled for 321th time
+[1588406787807.108398]	[INFO]	Hand Detection Task: Scheduled for 321th time
+[1588406787907.700684]	[INFO]	Sequencer Task : Scheduled for 322th time
+[1588406787908.154541]	[INFO]	Hand Detection Task: Scheduled for 322th time
+[1588406788007.764404]	[INFO]	Sequencer Task : Scheduled for 323th time
+[1588406788008.180664]	[INFO]	Hand Detection Task: Scheduled for 323th time
+[1588406788107.935303]	[INFO]	Sequencer Task : Scheduled for 324th time
+[1588406788111.713135]	[INFO]	Hand Detection Task: Scheduled for 324th time
+[1588406788208.403564]	[INFO]	Sequencer Task : Scheduled for 325th time
+[1588406788208.472656]	[INFO]	Hand Detection Task: Scheduled for 325th time
+[1588406788208.494141]	[INFO]	Display UI Task : Scheduled for 65th time
+[1588406788308.443848]	[INFO]	Sequencer Task : Scheduled for 326th time
+[1588406788309.041016]	[INFO]	Hand Detection Task: Scheduled for 326th time
+[1588406788408.584961]	[INFO]	Sequencer Task : Scheduled for 327th time
+[1588406788432.937256]	[INFO]	Hand Detection Task: Scheduled for 327th time
+[1588406788509.563232]	[INFO]	Sequencer Task : Scheduled for 328th time
+[1588406788509.629883]	[INFO]	Hand Detection Task: Scheduled for 328th time
+[1588406788609.637939]	[INFO]	Sequencer Task : Scheduled for 329th time
+[1588406788609.689697]	[INFO]	Hand Detection Task: Scheduled for 329th time
+[1588406788710.298340]	[INFO]	Sequencer Task : Scheduled for 330th time
+[1588406788710.383057]	[INFO]	Hand Detection Task: Scheduled for 330th time
+[1588406788710.406982]	[INFO]	Display UI Task : Scheduled for 66th time
+[1588406788810.576172]	[INFO]	Sequencer Task : Scheduled for 331th time
+[1588406788810.603271]	[INFO]	Hand Detection Task: Scheduled for 331th time
+[1588406788910.635498]	[INFO]	Sequencer Task : Scheduled for 332th time
+[1588406788910.866211]	[INFO]	Hand Detection Task: Scheduled for 332th time
+[1588406789010.920166]	[INFO]	Sequencer Task : Scheduled for 333th time
+[1588406789010.953125]	[INFO]	Hand Detection Task: Scheduled for 333th time
+[1588406789111.726074]	[INFO]	Sequencer Task : Scheduled for 334th time
+[1588406789142.023438]	[INFO]	Hand Detection Task: Scheduled for 334th time
+[1588406789211.925537]	[INFO]	Sequencer Task : Scheduled for 335th time
+[1588406789248.458740]	[INFO]	Display UI Task : Scheduled for 67th time
+[1588406789248.619141]	[INFO]	Hand Detection Task: Scheduled for 335th time
+[1588406789312.129395]	[INFO]	Sequencer Task : Scheduled for 336th time
+[1588406789340.846924]	[INFO]	Hand Detection Task: Scheduled for 336th time
+[1588406789412.507568]	[INFO]	Sequencer Task : Scheduled for 337th time
+[1588406789418.194580]	[INFO]	Hand Detection Task: Scheduled for 337th time
+[1588406789513.410400]	[INFO]	Sequencer Task : Scheduled for 338th time
+[1588406789514.445068]	[INFO]	Hand Detection Task: Scheduled for 338th time
+[1588406789613.469482]	[INFO]	Sequencer Task : Scheduled for 339th time
+[1588406789636.136963]	[INFO]	Hand Detection Task: Scheduled for 339th time
+[1588406789657.201172]	[INFO]	Hand-Detection Task : Sending Option 2
+[1588406789713.730469]	[INFO]	Sequencer Task : Scheduled for 340th time
+[1588406789740.546387]	[INFO]	Hand Detection Task: Scheduled for 340th time
+[1588406789740.569336]	[INFO]	Display UI Task : Scheduled for 68th time
+[1588406789740.578125]	[INFO]	Display UI Task : Message Received Option Selected 2
+[1588406789814.118164]	[INFO]	Sequencer Task : Scheduled for 341th time
+[1588406789853.069580]	[INFO]	Hand Detection Task: Scheduled for 341th time
+[1588406789914.487061]	[INFO]	Sequencer Task : Scheduled for 342th time
+[1588406789927.644531]	[INFO]	Hand Detection Task: Scheduled for 342th time
+[1588406790014.773926]	[INFO]	Sequencer Task : Scheduled for 343th time
+[1588406790032.373535]	[INFO]	Hand Detection Task: Scheduled for 343th time
+[1588406790115.303955]	[INFO]	Sequencer Task : Scheduled for 344th time
+[1588406790196.341064]	[INFO]	Hand Detection Task: Scheduled for 344th time
+[1588406790215.915039]	[INFO]	Sequencer Task : Scheduled for 345th time
+[1588406790215.988281]	[INFO]	Display UI Task : Scheduled for 69th time
+[1588406790316.482422]	[INFO]	Sequencer Task : Scheduled for 346th time
+[1588406790324.102051]	[INFO]	Hand Detection Task: Scheduled for 345th time
+[1588406790416.647705]	[INFO]	Sequencer Task : Scheduled for 347th time
+[1588406790468.427490]	[INFO]	Hand Detection Task: Scheduled for 346th time
+[1588406790517.031006]	[INFO]	Sequencer Task : Scheduled for 348th time
+[1588406790568.076660]	[INFO]	Hand Detection Task: Scheduled for 347th time
+[1588406790617.138428]	[INFO]	Sequencer Task : Scheduled for 349th time
+[1588406790618.335449]	[INFO]	Hand Detection Task: Scheduled for 348th time
+[1588406790676.688721]	[INFO]	Hand Detection Task: Scheduled for 349th time
+[1588406790717.287354]	[INFO]	Sequencer Task : Scheduled for 350th time
+[1588406790717.515381]	[INFO]	Display UI Task : Scheduled for 70th time
+[1588406790758.582764]	[INFO]	Hand Detection Task: Scheduled for 350th time
+[1588406790817.752197]	[INFO]	Sequencer Task : Scheduled for 351th time
+[1588406790871.870850]	[INFO]	Hand Detection Task: Scheduled for 351th time
+[1588406790918.840576]	[INFO]	Sequencer Task : Scheduled for 352th time
+[1588406790918.880127]	[INFO]	Hand Detection Task: Scheduled for 352th time
+[1588406791019.079346]	[INFO]	Sequencer Task : Scheduled for 353th time
+[1588406791019.159180]	[INFO]	Hand Detection Task: Scheduled for 353th time
+[1588406791119.178223]	[INFO]	Sequencer Task : Scheduled for 354th time
+[1588406791119.268311]	[INFO]	Hand Detection Task: Scheduled for 354th time
+[1588406791219.494385]	[INFO]	Sequencer Task : Scheduled for 355th time
+[1588406791219.701172]	[INFO]	Hand Detection Task: Scheduled for 355th time
+[1588406791275.806396]	[INFO]	Display UI Task : Scheduled for 71th time
+[1588406791319.609131]	[INFO]	Sequencer Task : Scheduled for 356th time
+[1588406791319.695801]	[INFO]	Hand Detection Task: Scheduled for 356th time
+[1588406791420.072510]	[INFO]	Sequencer Task : Scheduled for 357th time
+[1588406791423.178467]	[INFO]	Hand Detection Task: Scheduled for 357th time
+[1588406791520.301025]	[INFO]	Sequencer Task : Scheduled for 358th time
+[1588406791520.341797]	[INFO]	Hand Detection Task: Scheduled for 358th time
+[1588406791620.414795]	[INFO]	Sequencer Task : Scheduled for 359th time
+[1588406791643.448242]	[INFO]	Hand Detection Task: Scheduled for 359th time
+[1588406791720.714844]	[INFO]	Sequencer Task : Scheduled for 360th time
+[1588406791756.731201]	[INFO]	Hand Detection Task: Scheduled for 360th time
+[1588406791760.915283]	[INFO]	Display UI Task : Scheduled for 72th time
+[1588406791821.189941]	[INFO]	Sequencer Task : Scheduled for 361th time
+[1588406791821.259033]	[INFO]	Hand Detection Task: Scheduled for 361th time
+[1588406791921.455566]	[INFO]	Sequencer Task : Scheduled for 362th time
+[1588406791942.831299]	[INFO]	Hand Detection Task: Scheduled for 362th time
+[1588406792021.494629]	[INFO]	Sequencer Task : Scheduled for 363th time
+[1588406792024.956299]	[INFO]	Hand Detection Task: Scheduled for 363th time
+[1588406792121.781738]	[INFO]	Sequencer Task : Scheduled for 364th time
+[1588406792121.822510]	[INFO]	Hand Detection Task: Scheduled for 364th time
+[1588406792222.364502]	[INFO]	Sequencer Task : Scheduled for 365th time
+[1588406792222.490967]	[INFO]	Hand Detection Task: Scheduled for 365th time
+[1588406792222.543457]	[INFO]	Display UI Task : Scheduled for 73th time
+[1588406792322.819336]	[INFO]	Sequencer Task : Scheduled for 366th time
+[1588406792410.898193]	[INFO]	Hand Detection Task: Scheduled for 366th time
+[1588406792423.434326]	[INFO]	Sequencer Task : Scheduled for 367th time
+[1588406792446.867920]	[INFO]	Hand Detection Task: Scheduled for 367th time
+[1588406792523.736816]	[INFO]	Sequencer Task : Scheduled for 368th time
+[1588406792523.844727]	[INFO]	Hand Detection Task: Scheduled for 368th time
+[1588406792624.222412]	[INFO]	Sequencer Task : Scheduled for 369th time
+[1588406792624.311523]	[INFO]	Hand Detection Task: Scheduled for 369th time
+[1588406792724.576904]	[INFO]	Sequencer Task : Scheduled for 370th time
+[1588406792724.629883]	[INFO]	Hand Detection Task: Scheduled for 370th time
+[1588406792724.649414]	[INFO]	Display UI Task : Scheduled for 74th time
+[1588406792824.689941]	[INFO]	Sequencer Task : Scheduled for 371th time
+[1588406792824.754639]	[INFO]	Hand Detection Task: Scheduled for 371th time
+[1588406792844.667725]	[INFO]	Hand-Detection Task : Sending Option 3
+[1588406792925.157715]	[INFO]	Sequencer Task : Scheduled for 372th time
+[1588406792934.974609]	[INFO]	Hand Detection Task: Scheduled for 372th time
+[1588406793025.396973]	[INFO]	Sequencer Task : Scheduled for 373th time
+[1588406793045.798096]	[INFO]	Hand Detection Task: Scheduled for 373th time
+[1588406793125.534180]	[INFO]	Sequencer Task : Scheduled for 374th time
+[1588406793125.597656]	[INFO]	Hand Detection Task: Scheduled for 374th time
+[1588406793226.462402]	[INFO]	Sequencer Task : Scheduled for 375th time
+[1588406793226.593262]	[INFO]	Display UI Task : Scheduled for 75th time
+[1588406793226.601318]	[INFO]	Display UI Task : Message Received Option Selected 3
+[1588406793326.802979]	[INFO]	Sequencer Task : Scheduled for 376th time
+[1588406793427.303711]	[INFO]	Sequencer Task : Scheduled for 377th time
+[1588406793528.813721]	[INFO]	Sequencer Task : Scheduled for 378th time
+[1588406793615.472412]	[INFO]	Hand Detection Task: Scheduled for 375th time
+[1588406793628.892578]	[INFO]	Sequencer Task : Scheduled for 379th time
+[1588406793726.510254]	[INFO]	Hand Detection Task: Scheduled for 376th time
+[1588406793729.349365]	[INFO]	Sequencer Task : Scheduled for 380th time
+[1588406793729.459961]	[INFO]	Display UI Task : Scheduled for 76th time
+[1588406793824.593994]	[INFO]	Hand Detection Task: Scheduled for 377th time
+[1588406793829.529785]	[INFO]	Sequencer Task : Scheduled for 381th time
+[1588406793929.890625]	[INFO]	Sequencer Task : Scheduled for 382th time
+[1588406793951.464844]	[INFO]	Hand Detection Task: Scheduled for 378th time
+[1588406794030.444580]	[INFO]	Sequencer Task : Scheduled for 383th time
+[1588406794041.013916]	[INFO]	Hand Detection Task: Scheduled for 379th time
+[1588406794130.949219]	[INFO]	Sequencer Task : Scheduled for 384th time
+[1588406794231.919434]	[INFO]	Sequencer Task : Scheduled for 385th time
+[1588406794332.610840]	[INFO]	Sequencer Task : Scheduled for 386th time
+[1588406794433.798584]	[INFO]	Sequencer Task : Scheduled for 387th time
+[1588406794534.729004]	[INFO]	Sequencer Task : Scheduled for 388th time
+[1588406794593.944580]	[INFO]	Display UI Task : Scheduled for 77th time
+[1588406794599.397949]	[INFO]	Hand Detection Task: Scheduled for 380th time
+[1588406794634.985596]	[INFO]	Sequencer Task : Scheduled for 389th time
+[1588406794724.522949]	[INFO]	Hand Detection Task: Scheduled for 381th time
+[1588406794735.133301]	[INFO]	Sequencer Task : Scheduled for 390th time
+[1588406794735.152832]	[INFO]	Display UI Task : Scheduled for 78th time
+[1588406794769.431885]	[INFO]	Hand Detection Task: Scheduled for 382th time
+[1588406794835.961426]	[INFO]	Sequencer Task : Scheduled for 391th time
+[1588406794847.611572]	[INFO]	Hand Detection Task: Scheduled for 383th time
+[1588406794920.127197]	[INFO]	Hand Detection Task: Scheduled for 384th time
+[1588406794936.099365]	[INFO]	Sequencer Task : Scheduled for 392th time
+[1588406794980.357910]	[INFO]	Hand Detection Task: Scheduled for 385th time
+[1588406795036.507812]	[INFO]	Sequencer Task : Scheduled for 393th time
+[1588406795036.966309]	[INFO]	Hand Detection Task: Scheduled for 386th time
+[1588406795121.544922]	[INFO]	Hand Detection Task: Scheduled for 387th time
+[1588406795136.634033]	[INFO]	Sequencer Task : Scheduled for 394th time
+[1588406795236.751953]	[INFO]	Sequencer Task : Scheduled for 395th time
+[1588406795236.824463]	[INFO]	Display UI Task : Scheduled for 79th time
+[1588406795295.782959]	[INFO]	Hand Detection Task: Scheduled for 388th time
+[1588406795337.113281]	[INFO]	Sequencer Task : Scheduled for 396th time
+[1588406795390.036377]	[INFO]	Hand Detection Task: Scheduled for 389th time
+[1588406795437.315186]	[INFO]	Sequencer Task : Scheduled for 397th time
+[1588406795462.594238]	[INFO]	Hand Detection Task: Scheduled for 390th time
+[1588406795537.681152]	[INFO]	Sequencer Task : Scheduled for 398th time
+[1588406795552.779297]	[INFO]	Hand Detection Task: Scheduled for 391th time
+[1588406795638.558350]	[INFO]	Sequencer Task : Scheduled for 399th time
+[1588406795644.086670]	[INFO]	Hand Detection Task: Scheduled for 392th time
+[1588406795738.750732]	[INFO]	Sequencer Task : Scheduled for 400th time
+[1588406795738.819824]	[INFO]	Display UI Task : Scheduled for 80th time
+[1588406795744.541748]	[INFO]	Hand Detection Task: Scheduled for 393th time
+[1588406795839.086914]	[INFO]	Sequencer Task : Scheduled for 401th time
+[1588406795851.637695]	[INFO]	Hand Detection Task: Scheduled for 394th time
+[1588406795905.605957]	[INFO]	Hand Detection Task: Scheduled for 395th time
+[1588406795939.287354]	[INFO]	Sequencer Task : Scheduled for 402th time
+[1588406795974.657227]	[INFO]	Hand Detection Task: Scheduled for 396th time
+[1588406796039.324951]	[INFO]	Sequencer Task : Scheduled for 403th time
+[1588406796063.614990]	[INFO]	Hand Detection Task: Scheduled for 397th time
+[1588406796139.502930]	[INFO]	Sequencer Task : Scheduled for 404th time
+[1588406796141.485107]	[INFO]	Hand Detection Task: Scheduled for 398th time
+[1588406796187.735107]	[INFO]	Hand Detection Task: Scheduled for 399th time
+[1588406796239.901123]	[INFO]	Sequencer Task : Scheduled for 405th time
+[1588406796239.941162]	[INFO]	Display UI Task : Scheduled for 81th time
+[1588406796264.552979]	[INFO]	Hand Detection Task: Scheduled for 400th time
+[1588406796340.046631]	[INFO]	Sequencer Task : Scheduled for 406th time
+[1588406796344.470215]	[INFO]	Hand Detection Task: Scheduled for 401th time
+[1588406796440.462646]	[INFO]	Sequencer Task : Scheduled for 407th time
+[1588406796483.409668]	[INFO]	Hand Detection Task: Scheduled for 402th time
+[1588406796533.982178]	[INFO]	Hand Detection Task: Scheduled for 403th time
+[1588406796540.924316]	[INFO]	Sequencer Task : Scheduled for 408th time
+[1588406796561.118164]	[INFO]	Hand Detection Task: Scheduled for 404th time
+[1588406796588.309082]	[INFO]	Hand Detection Task: Scheduled for 405th time
+[1588406796641.508545]	[INFO]	Sequencer Task : Scheduled for 409th time
+[1588406796676.150391]	[INFO]	Hand Detection Task: Scheduled for 406th time
+[1588406796741.638672]	[INFO]	Sequencer Task : Scheduled for 410th time
+[1588406796741.684570]	[INFO]	Display UI Task : Scheduled for 82th time
+[1588406796761.912354]	[INFO]	Hand Detection Task: Scheduled for 407th time
+[1588406796842.694824]	[INFO]	Sequencer Task : Scheduled for 411th time
+[1588406796943.844971]	[INFO]	Sequencer Task : Scheduled for 412th time
+[1588406796985.594238]	[INFO]	Hand Detection Task: Scheduled for 408th time
+[1588406797044.025879]	[INFO]	Sequencer Task : Scheduled for 413th time
+[1588406797077.558350]	[INFO]	Hand Detection Task: Scheduled for 409th time
+[1588406797141.147461]	[INFO]	Hand Detection Task: Scheduled for 410th time
+[1588406797144.236572]	[INFO]	Sequencer Task : Scheduled for 414th time
+[1588406797225.148438]	[INFO]	Hand Detection Task: Scheduled for 411th time
+[1588406797244.432373]	[INFO]	Sequencer Task : Scheduled for 415th time
+[1588406797244.600098]	[INFO]	Display UI Task : Scheduled for 83th time
+[1588406797317.734619]	[INFO]	Hand Detection Task: Scheduled for 412th time
+[1588406797344.516357]	[INFO]	Sequencer Task : Scheduled for 416th time
+[1588406797444.827393]	[INFO]	Sequencer Task : Scheduled for 417th time
+[1588406797447.670410]	[INFO]	Hand Detection Task: Scheduled for 413th time
+[1588406797545.278320]	[INFO]	Sequencer Task : Scheduled for 418th time
+[1588406797552.980225]	[INFO]	Hand Detection Task: Scheduled for 414th time
+[1588406797645.577148]	[INFO]	Sequencer Task : Scheduled for 419th time
+[1588406797745.712158]	[INFO]	Sequencer Task : Scheduled for 420th time
+[1588406797745.790283]	[INFO]	Display UI Task : Scheduled for 84th time
+[1588406797765.948730]	[INFO]	Hand Detection Task: Scheduled for 415th time
+[1588406797843.994873]	[INFO]	Hand Detection Task: Scheduled for 416th time
+[1588406797845.914307]	[INFO]	Sequencer Task : Scheduled for 421th time
+[1588406797880.649902]	[INFO]	Hand Detection Task: Scheduled for 417th time
+[1588406797945.994629]	[INFO]	Sequencer Task : Scheduled for 422th time
+[1588406797947.118164]	[INFO]	Hand Detection Task: Scheduled for 418th time
+[1588406798034.834229]	[INFO]	Hand Detection Task: Scheduled for 419th time
+[1588406798046.029053]	[INFO]	Sequencer Task : Scheduled for 423th time
+[1588406798146.552490]	[INFO]	Sequencer Task : Scheduled for 424th time
+[1588406798167.088379]	[INFO]	Hand Detection Task: Scheduled for 420th time
+[1588406798207.953125]	[INFO]	Hand Detection Task: Scheduled for 421th time
+[1588406798246.606201]	[INFO]	Sequencer Task : Scheduled for 425th time
+[1588406798246.754395]	[INFO]	Display UI Task : Scheduled for 85th time
+[1588406798304.334229]	[INFO]	Hand Detection Task: Scheduled for 422th time
+[1588406798347.467285]	[INFO]	Sequencer Task : Scheduled for 426th time
+[1588406798368.740967]	[INFO]	Hand Detection Task: Scheduled for 423th time
+[1588406798398.927246]	[INFO]	Hand Detection Task: Scheduled for 424th time
+[1588406798444.572510]	[INFO]	Hand Detection Task: Scheduled for 425th time
+[1588406798447.539551]	[INFO]	Sequencer Task : Scheduled for 427th time
+[1588406798469.547119]	[INFO]	Hand Detection Task: Scheduled for 426th time
+[1588406798495.123291]	[INFO]	Hand Detection Task: Scheduled for 427th time
+[1588406798547.833252]	[INFO]	Sequencer Task : Scheduled for 428th time
+[1588406798547.864746]	[INFO]	Hand Detection Task: Scheduled for 428th time
+[1588406798648.646240]	[INFO]	Sequencer Task : Scheduled for 429th time
+[1588406798648.677490]	[INFO]	Hand Detection Task: Scheduled for 429th time
+[1588406798749.644775]	[INFO]	Sequencer Task : Scheduled for 430th time
+[1588406798749.679443]	[INFO]	Hand Detection Task: Scheduled for 430th time
+[1588406798749.695068]	[INFO]	Display UI Task : Scheduled for 86th time
+[1588406798849.701416]	[INFO]	Sequencer Task : Scheduled for 431th time
+[1588406798849.751465]	[INFO]	Hand Detection Task: Scheduled for 431th time
+[1588406798950.514404]	[INFO]	Sequencer Task : Scheduled for 432th time
+[1588406798976.163574]	[INFO]	Hand Detection Task: Scheduled for 432th time
+[1588406799050.644531]	[INFO]	Sequencer Task : Scheduled for 433th time
+[1588406799051.374268]	[INFO]	Hand Detection Task: Scheduled for 433th time
+[1588406799151.312256]	[INFO]	Sequencer Task : Scheduled for 434th time
+[1588406799162.194336]	[INFO]	Hand Detection Task: Scheduled for 434th time
+[1588406799251.853271]	[INFO]	Sequencer Task : Scheduled for 435th time
+[1588406799262.290771]	[INFO]	Hand Detection Task: Scheduled for 435th time
+[1588406799262.318115]	[INFO]	Display UI Task : Scheduled for 87th time
+[1588406799353.221191]	[INFO]	Sequencer Task : Scheduled for 436th time
+[1588406799355.883789]	[INFO]	Hand Detection Task: Scheduled for 436th time
+[1588406799453.744873]	[INFO]	Sequencer Task : Scheduled for 437th time
+[1588406799465.855225]	[INFO]	Hand Detection Task: Scheduled for 437th time
+[1588406799554.151611]	[INFO]	Sequencer Task : Scheduled for 438th time
+[1588406799570.759521]	[INFO]	Hand Detection Task: Scheduled for 438th time
+[1588406799654.917969]	[INFO]	Sequencer Task : Scheduled for 439th time
+[1588406799675.129639]	[INFO]	Hand Detection Task: Scheduled for 439th time
+[1588406799755.197998]	[INFO]	Sequencer Task : Scheduled for 440th time
+[1588406799755.280273]	[INFO]	Hand Detection Task: Scheduled for 440th time
+[1588406799755.313477]	[INFO]	Display UI Task : Scheduled for 88th time
+[1588406799855.489258]	[INFO]	Sequencer Task : Scheduled for 441th time
+[1588406799859.762939]	[INFO]	Hand Detection Task: Scheduled for 441th time
+[1588406799955.604736]	[INFO]	Sequencer Task : Scheduled for 442th time
+[1588406799956.041260]	[INFO]	Hand Detection Task: Scheduled for 442th time
+[1588406800056.123535]	[INFO]	Sequencer Task : Scheduled for 443th time
+[1588406800068.614502]	[INFO]	Hand Detection Task: Scheduled for 443th time
+[1588406800156.584717]	[INFO]	Sequencer Task : Scheduled for 444th time
+[1588406800156.633057]	[INFO]	Hand Detection Task: Scheduled for 444th time
+[1588406800257.335938]	[INFO]	Sequencer Task : Scheduled for 445th time
+[1588406800257.406494]	[INFO]	Display UI Task : Scheduled for 89th time
+[1588406800302.648438]	[INFO]	Hand Detection Task: Scheduled for 445th time
+[1588406800357.715332]	[INFO]	Sequencer Task : Scheduled for 446th time
+[1588406800397.575195]	[INFO]	Hand Detection Task: Scheduled for 446th time
+[1588406800458.026611]	[INFO]	Sequencer Task : Scheduled for 447th time
+[1588406800497.672852]	[INFO]	Hand Detection Task: Scheduled for 447th time
+[1588406800558.488281]	[INFO]	Sequencer Task : Scheduled for 448th time
+[1588406800575.888428]	[INFO]	Hand Detection Task: Scheduled for 448th time
+[1588406800658.790527]	[INFO]	Sequencer Task : Scheduled for 449th time
+[1588406800658.911377]	[INFO]	Hand Detection Task: Scheduled for 449th time
+[1588406800761.244141]	[INFO]	Sequencer Task : Scheduled for 450th time
+[1588406800761.299805]	[INFO]	Hand Detection Task: Scheduled for 450th time
+[1588406800761.333008]	[INFO]	Display UI Task : Scheduled for 90th time
+[1588406800861.494385]	[INFO]	Sequencer Task : Scheduled for 451th time
+[1588406800868.556396]	[INFO]	Hand Detection Task: Scheduled for 451th time
+[1588406800889.358887]	[INFO]	Hand-Detection Task : Sending Option 3
+[1588406800961.553711]	[INFO]	Sequencer Task : Scheduled for 452th time
+[1588406800973.996338]	[INFO]	Hand Detection Task: Scheduled for 452th time
+[1588406801061.781250]	[INFO]	Sequencer Task : Scheduled for 453th time
+[1588406801070.574951]	[INFO]	Hand Detection Task: Scheduled for 453th time
+[1588406801162.031250]	[INFO]	Sequencer Task : Scheduled for 454th time
+[1588406801203.277588]	[INFO]	Hand Detection Task: Scheduled for 454th time
+[1588406801262.398438]	[INFO]	Sequencer Task : Scheduled for 455th time
+[1588406801262.435791]	[INFO]	Display UI Task : Scheduled for 91th time
+[1588406801262.444824]	[INFO]	Display UI Task : Message Received Option Selected 3
+[1588406801299.652588]	[INFO]	Hand Detection Task: Scheduled for 455th time
+[1588406801363.053955]	[INFO]	Sequencer Task : Scheduled for 456th time
+[1588406801444.657471]	[INFO]	Hand Detection Task: Scheduled for 456th time
+[1588406801463.505615]	[INFO]	Sequencer Task : Scheduled for 457th time
+[1588406801495.425293]	[INFO]	Hand Detection Task: Scheduled for 457th time
+[1588406801563.795654]	[INFO]	Sequencer Task : Scheduled for 458th time
+[1588406801563.944336]	[INFO]	Hand Detection Task: Scheduled for 458th time
+[1588406801664.634033]	[INFO]	Sequencer Task : Scheduled for 459th time
+[1588406801664.718994]	[INFO]	Hand Detection Task: Scheduled for 459th time
+[1588406801765.467773]	[INFO]	Sequencer Task : Scheduled for 460th time
+[1588406801765.510010]	[INFO]	Display UI Task : Scheduled for 92th time
+[1588406801774.755615]	[INFO]	Hand Detection Task: Scheduled for 460th time
+[1588406801865.549561]	[INFO]	Sequencer Task : Scheduled for 461th time
+[1588406801884.854248]	[INFO]	Hand Detection Task: Scheduled for 461th time
+[1588406801965.803223]	[INFO]	Sequencer Task : Scheduled for 462th time
+[1588406801973.420654]	[INFO]	Hand Detection Task: Scheduled for 462th time
+[1588406802066.077881]	[INFO]	Sequencer Task : Scheduled for 463th time
+[1588406802078.378418]	[INFO]	Hand Detection Task: Scheduled for 463th time
+[1588406802166.327881]	[INFO]	Sequencer Task : Scheduled for 464th time
+[1588406802174.988281]	[INFO]	Hand Detection Task: Scheduled for 464th time
+[1588406802266.700195]	[INFO]	Sequencer Task : Scheduled for 465th time
+[1588406802266.773682]	[INFO]	Display UI Task : Scheduled for 93th time
+[1588406802267.107178]	[INFO]	Hand Detection Task: Scheduled for 465th time
+[1588406802367.152100]	[INFO]	Sequencer Task : Scheduled for 466th time
+[1588406802367.191162]	[INFO]	Hand Detection Task: Scheduled for 466th time
+[1588406802467.243408]	[INFO]	Sequencer Task : Scheduled for 467th time
+[1588406802467.522217]	[INFO]	Hand Detection Task: Scheduled for 467th time
+[1588406802494.253418]	[INFO]	Hand-Detection Task : Sending Option 4
+[1588406802567.797852]	[INFO]	Sequencer Task : Scheduled for 468th time
+[1588406802577.953857]	[INFO]	Hand Detection Task: Scheduled for 468th time
+[1588406802668.263428]	[INFO]	Sequencer Task : Scheduled for 469th time
+[1588406802668.313965]	[INFO]	Hand Detection Task: Scheduled for 469th time
+[1588406802768.368164]	[INFO]	Sequencer Task : Scheduled for 470th time
+[1588406802768.408447]	[INFO]	Display UI Task : Scheduled for 94th time
+[1588406802768.413818]	[INFO]	Hand Detection Task: Scheduled for 470th time
+[1588406802768.416992]	[INFO]	Display UI Task : Message Received Option Selected 4
+[1588406802868.712646]	[INFO]	Sequencer Task : Scheduled for 471th time
+[1588406802891.639160]	[INFO]	Hand Detection Task: Scheduled for 471th time
+[1588406802968.845703]	[INFO]	Sequencer Task : Scheduled for 472th time
+[1588406802968.897461]	[INFO]	Hand Detection Task: Scheduled for 472th time
+[1588406803069.071777]	[INFO]	Sequencer Task : Scheduled for 473th time
+[1588406803069.123779]	[INFO]	Hand Detection Task: Scheduled for 473th time
+[1588406803169.534424]	[INFO]	Sequencer Task : Scheduled for 474th time
+[1588406803169.639648]	[INFO]	Hand Detection Task: Scheduled for 474th time
+[1588406803270.518555]	[INFO]	Sequencer Task : Scheduled for 475th time
+[1588406803270.605713]	[INFO]	Hand Detection Task: Scheduled for 475th time
+[1588406803270.616943]	[INFO]	Display UI Task : Scheduled for 95th time
+[1588406803370.776855]	[INFO]	Sequencer Task : Scheduled for 476th time
+[1588406803383.524902]	[INFO]	Hand Detection Task: Scheduled for 476th time
+[1588406803470.860352]	[INFO]	Sequencer Task : Scheduled for 477th time
+[1588406803475.398438]	[INFO]	Hand Detection Task: Scheduled for 477th time
+[1588406803571.983398]	[INFO]	Sequencer Task : Scheduled for 478th time
+[1588406803572.076660]	[INFO]	Hand Detection Task: Scheduled for 478th time
+[1588406803672.613037]	[INFO]	Sequencer Task : Scheduled for 479th time
+[1588406803691.184326]	[INFO]	Hand Detection Task: Scheduled for 479th time
+[1588406803773.609863]	[INFO]	Sequencer Task : Scheduled for 480th time
+[1588406803773.658691]	[INFO]	Hand Detection Task: Scheduled for 480th time
+[1588406803792.063721]	[INFO]	Display UI Task : Scheduled for 96th time
+[1588406803874.607910]	[INFO]	Sequencer Task : Scheduled for 481th time
+[1588406803874.655762]	[INFO]	Hand Detection Task: Scheduled for 481th time
+[1588406803975.123779]	[INFO]	Sequencer Task : Scheduled for 482th time
+[1588406803975.166992]	[INFO]	Hand Detection Task: Scheduled for 482th time
+[1588406804075.267822]	[INFO]	Sequencer Task : Scheduled for 483th time
+[1588406804075.340820]	[INFO]	Hand Detection Task: Scheduled for 483th time
+[1588406804096.795654]	[INFO]	Hand-Detection Task : Sending Option 2
+[1588406804175.843018]	[INFO]	Sequencer Task : Scheduled for 484th time
+[1588406804175.882080]	[INFO]	Hand Detection Task: Scheduled for 484th time
+[1588406804276.425293]	[INFO]	Sequencer Task : Scheduled for 485th time
+[1588406804276.476807]	[INFO]	Hand Detection Task: Scheduled for 485th time
+[1588406804276.491699]	[INFO]	Display UI Task : Scheduled for 97th time
+[1588406804276.530273]	[INFO]	Display UI Task : Message Received Option Selected 2
+[1588406804377.219971]	[INFO]	Sequencer Task : Scheduled for 486th time
+[1588406804377.320557]	[INFO]	Hand Detection Task: Scheduled for 486th time
+[1588406804477.786133]	[INFO]	Sequencer Task : Scheduled for 487th time
+[1588406804477.831543]	[INFO]	Hand Detection Task: Scheduled for 487th time
+[1588406804578.353516]	[INFO]	Sequencer Task : Scheduled for 488th time
+[1588406804597.665283]	[INFO]	Hand Detection Task: Scheduled for 488th time
+[1588406804678.433594]	[INFO]	Sequencer Task : Scheduled for 489th time
+[1588406804678.478516]	[INFO]	Hand Detection Task: Scheduled for 489th time
+[1588406804778.643066]	[INFO]	Sequencer Task : Scheduled for 490th time
+[1588406804778.719238]	[INFO]	Display UI Task : Scheduled for 98th time
+[1588406804866.384277]	[INFO]	Hand Detection Task: Scheduled for 490th time
+[1588406804878.992432]	[INFO]	Sequencer Task : Scheduled for 491th time
+[1588406804903.171387]	[INFO]	Hand Detection Task: Scheduled for 491th time
+[1588406804979.553955]	[INFO]	Sequencer Task : Scheduled for 492th time
+[1588406805065.571533]	[INFO]	Hand Detection Task: Scheduled for 492th time
+[1588406805079.699463]	[INFO]	Sequencer Task : Scheduled for 493th time
+[1588406805103.602051]	[INFO]	Hand Detection Task: Scheduled for 493th time
+[1588406805179.742920]	[INFO]	Sequencer Task : Scheduled for 494th time
+[1588406805280.336914]	[INFO]	Sequencer Task : Scheduled for 495th time
+[1588406805280.453613]	[INFO]	Display UI Task : Scheduled for 99th time
+[1588406805300.686523]	[INFO]	Hand Detection Task: Scheduled for 494th time
+[1588406805337.879395]	[INFO]	Hand Detection Task: Scheduled for 495th time
+[1588406805380.840332]	[INFO]	Sequencer Task : Scheduled for 496th time
+[1588406805480.968750]	[INFO]	Sequencer Task : Scheduled for 497th time
+[1588406805504.679688]	[INFO]	Hand Detection Task: Scheduled for 496th time
+[1588406805536.006592]	[INFO]	Hand Detection Task: Scheduled for 497th time
+[1588406805581.307617]	[INFO]	Sequencer Task : Scheduled for 498th time
+[1588406805624.832520]	[INFO]	Hand Detection Task: Scheduled for 498th time
+[1588406805681.825684]	[INFO]	Sequencer Task : Scheduled for 499th time
+[1588406805681.873535]	[INFO]	Hand Detection Task: Scheduled for 499th time
+[1588406805702.068604]	[INFO]	Hand-Detection Task : Sending Option 2
+[1588406805781.993652]	[INFO]	SequencerQObject::~QObject: Timers cannot be stopped from another thread
+ Task : Scheduled for 500th time
+[1588406805782.056885]	[INFO]	Hand Detection Task: Scheduled for 500th time
+[1588406805783.030762]	[INFO]	Display UI Task : Scheduled for 100th time
+[1588406805783.056152]	[INFO]	Display UI Task : Message Received Option Selected 2
+[1588406805882.209961]	[INFO]	Sequencer Task : Scheduled for 501th time
+[1588406805882.251221]	[INFO]	Hand Detection Task: Scheduled for 501th time
+[1588406805982.607910]	[INFO]	Sequencer Task : Scheduled for 502th time
+[1588406806042.135498]	[INFO]	Hand Detection Task: Scheduled for 502th time
+[1588406806083.143311]	[INFO]	Sequencer Task : Scheduled for 503th time
+[1588406806083.193604]	[INFO]	Hand Detection Task: Scheduled for 503th time
+[1588406806183.533447]	[INFO]	Sequencer Task : Scheduled for 504th time
+[1588406806245.513428]	[INFO]	Hand Detection Task: Scheduled for 504th time
+[1588406806283.659424]	[INFO]	Sequencer Task : Scheduled for 505th time
+[1588406806283.703125]	[INFO]	Hand Detection Task: Scheduled for 505th time
+[1588406806300.241211]	[INFO]	Display UI Task : Scheduled for 101th time
+[1588406806383.903076]	[INFO]	Sequencer Task : Scheduled for 506th time
+[1588406806383.992188]	[INFO]	Hand Detection Task: Scheduled for 506th time
+[1588406806484.760986]	[INFO]	Sequencer Task : Scheduled for 507th time
+[1588406806585.033936]	[INFO]	Sequencer Task : Scheduled for 508th time
+[1588406806585.113770]	[INFO]	Display UI Task : Scheduled for 102th time

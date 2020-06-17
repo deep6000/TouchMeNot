@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "logging.h": "c",
+        "hand_detection.h": "c"
+    }
+}
