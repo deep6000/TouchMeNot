@@ -8,3 +8,6 @@
 
 # PRODUCT DESCRIPTION
 We are designing a restaurant feedback system which asks users for feedback of the experience of the restaurant. The product runs on Jetson Nano which supports OpenCV and has an camera interface to capture the hand gestures. The product has a screen interface connected through and HDMI interface. Ideally the screen interface would be a user interaction screen executing some kind of a task. This prototype will have a user display providing a user interface, with ability to select multiple options on the screen
+
+# DEMO VIDEO 
+https://github.com/deep6000/TouchMeNot/blob/master/TouchMeNot/TouchMeNotDemo.mp4
