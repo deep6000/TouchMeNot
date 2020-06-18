@@ -11,3 +11,6 @@ We are designing a restaurant feedback system which asks users for feedback of t
 
 # DEMO VIDEO 
 https://drive.google.com/drive/folders/1awO1N5PCaEs3MCvBdCA01pIQ-LU6Uzkr
+
+# References
+//github.com/PierfrancescoSoffritti/Handy
