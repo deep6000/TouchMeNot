@@ -16,7 +16,7 @@ We are designing a restaurant feedback system which asks users for feedback of t
 ![alt text](https://github.com/deep6000/TouchMeNot/blob/master/Documentation/DataFlow.png)
 
 # HAND DETECTION
-![alt text](https://github.com/deep6000/TouchMeNot/blob/master/Documentation/FingerDetection.PNG)
+![alt text](https://github.com/deep6000/TouchMeNot/blob/master/Documentation/HandDetection.PNG)
 
 # FINGER DETECTION
 ![alt text](https://github.com/deep6000/TouchMeNot/blob/master/Documentation/FingerDetection.PNG) 
